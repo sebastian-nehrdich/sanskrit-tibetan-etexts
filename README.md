@@ -8,6 +8,7 @@ Feel free to open an issue or send me a mail in case you have own etexts that yo
 The etexts have been created by a combination of a classifier using a convolutional neuronal network and the YASA sentence aligner (http://rali.iro.umontreal.ca/rali/?q=en/yasa). 
 
 So far aligned are:
+
 | Author / Name        | Quality           | % of sentences  |
 | ------------- |-------------| -----|
 | Vasubandhu - Abhidharmakośabhāṣyam   | >97% | 80% |
