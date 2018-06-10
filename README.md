@@ -9,6 +9,6 @@ The etexts have been created by a combination of a classifier using a convolutio
 
 So far aligned are:
 
-| Author / Name        | Quality           | % of sentences  |date added|
-| ------------- |-------------| -----|-|
-| Vasubandhu - Abhidharmakośabhāṣyam   | >97% | 80% |10.6.18|
+| Author / Name        | Quality           | % of sentences  |date added|Direct link"
+| ------------- |-------------| -----|-|-|
+| Vasubandhu - Abhidharmakośabhāṣyam   | >97% | 80% |10.6.18|[url=http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/vasubandhu-akbh-aligned.html]HTML[/url]|
