@@ -9,5 +9,5 @@ The etexts have been created by a combination of a classifier using a convolutio
 
 So far aligned are:
 | Author / Name        | Quality           | % of sentences  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | Vasubandhu - Abhidharmakośabhāṣyam   | >97% | 80% |
