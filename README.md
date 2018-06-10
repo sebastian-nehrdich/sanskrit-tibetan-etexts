@@ -11,4 +11,4 @@ So far aligned are:
 
 | Author / Name        | Quality           | % of sentences  |date added|Direct link"
 | ------------- |-------------| -----|-|-|
-| Vasubandhu - Abhidharmakośabhāṣyam   | >97% | 80% |10.6.18|[HTML(http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/vasubandhu-akbh-aligned.html)|
+| Vasubandhu - Abhidharmakośabhāṣyam   | >97% | 80% |10.6.18|[HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/vasubandhu-akbh-aligned.html)|
