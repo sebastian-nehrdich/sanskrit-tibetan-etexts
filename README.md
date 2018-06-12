@@ -10,7 +10,7 @@ The etexts have been created by a combination of a classifier using a convolutio
 # Table of aligned files
 
 | Author / Name        | Quality           | % of sentences  |date added|HTML|TXT|Alignment Matrix|Remarks|
-| ------------- |-------------| -----|-|-|
+| ------------- |-------------| -----|-|-|-|-|-|
 | Abhidharmakośabhāṣyam   | >97% | 75% |10.6.18|[HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/vasubandhu-akbh-aligned.html)|[TXT](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/txt/vasubandhu-akbh-aligned.txt)|[PNG](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/matrices/akbh.png)Very high alignment quality|
 | Abhidharmakośavyākhyā    | >90% | 50% |10.6.18|[HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/abhidharmasamuccayabhasya.html)|[TXT](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/txt/abhidharmasamuccayabhasya.txt)|High alignment quality, occasional disagreement between the SKT etext and the Tibetan translation accounts for a certain number of errors. Also note that bot etexts contain rather much noise.|
 | Abhidharmasamuccaya   | >97% | 50% |10.6.18|[HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/abhidharmasamuccaya.html)|[TXT](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/txt/abhidharmasamuccaya.txt)|Very high alignment quality|
