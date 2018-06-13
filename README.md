@@ -1,6 +1,6 @@
 # sanskrit-tibetan-etext
 This is a collection of sentence-level aligned Sanskrit-Tibetan etexts. The Tibetan etexts have been taken from ACIP (https://asianclassics.org/), the Sanskrit etexts from GRETIL (http://gretil.sub.uni-goettingen.de).
-The HTML-versions of the aligned files are found in the html-folder. The org-folder contains .org-files (which are just plain text files). the matrices-folder contains pictures of the alignment-matrices of the different files. These can be useful to see to what extend the alignment has been successful. 
+The HTML-versions of the aligned files are found in the html-folder. The org-folder contains .org-files (which are just plain text files). the matrices-folder contains pictures of the alignment-matrices of the different files. These can be useful to see to what extent the alignment has been successful. 
 
 The alignment-quality is good (overall average quality be somewhere around 97% in the case that the etexts are not noisy and no larger chunks in either of the languages are missing). However be prepared to find occasional mistakes. Some sort of compression occurs because the aligner is doing one-to-many and many-to-one alignments.  
 Feel free to open an issue or send me a mail in case you have own etexts that you want to have aligned or any further questions/suggestions!
@@ -19,7 +19,7 @@ The etexts have been created by a combination of a classifier using a convolutio
 | Prasannapadā    | 90% | 50% |10.6.18|[HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/prasannapada.html)|[TXT](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/txt/prasannapada.txt)|[PNG](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/matrices/prasannapada.png)|High alignment quality, occasional disagreement between the SKT etext and the Tibetan translation accounts for a certain number of errors. Here both the Sanskrit Etext as well as the Tibetan translation are rather noisy. |
 | Triṃśikavijñaptibhāṣyam   | >97% | 50% |10.6.18|[HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/html/sthiramati-trbh.html)|[TXT](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/txt/sthiramati-trbh.txt)|[PNG](https://raw.githubusercontent.com/dhamma-basti/sanskrit-tibetan-etexts/master/matrices/sthiramati-trbh.png)|Very high alignment quality|
 # About the alignment matrices
-Each point on the x-axis represents a Sanskrit sentence, each point on the y-axis represents a Tibetan sentence. The images can be very useful to get an impression about the quality of the translations and whether loss of longer sections has occoured. 
+Each point on the y-axis represents a Sanskrit sentence, each point on the x-axis represents a Tibetan sentence. The images can be very useful to get an impression about the quality of the translations and whether loss of longer sections has occoured. 
 
 # Remarks about the alignment quality
 * The aligner is not able to cut sentences into smaller units, but it can do one-to-many and many-to-one alignments. 
