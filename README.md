@@ -24,4 +24,4 @@ Each point on the x-axis represents a Sanskrit sentence, each point on the y-axi
 # Remarks about the alignment quality
 * The aligner is not able to cut sentences into smaller units, but it can do one-to-many and many-to-one alignments. 
 * Errors most likely occur at the end of sentences when smaller units get aligned to the wrong corresponding sentence; this is due to the fact that the algorithm is a little bit weak in reliably detecting units that are shorter than 3 tokens.
-* If a longer part is missing in either of the two languages, the algorithm might loose it's track and therefore produce a couple of misalignments; such instances have to be located manually and fixed. Generally speaking the algorithm get's "back on track" rather quickly, so such passages should not create too much problems. 
+* If a longer part is missing in either of the two languages, the algorithm might loose it's track and therefore produce a couple of misalignments; such instances have to be located manually and fixed. 
