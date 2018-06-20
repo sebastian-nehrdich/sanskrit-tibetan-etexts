@@ -1,0 +1,885 @@
+Āmnāyamañjarī Skt-Tib bilingual manuscript (1r1) āmnāyamañjaryā nāma śrīsaṃpuṭatantrarājasya ṭīkāyāṃ (1r2) dpal yang dag par sbyor ba'i rgyud kyi rgyal po'i rgya cher 'grel pa man ngag gi snye ma zhes bya ba bzhugs so (1v1) rgya gar skad du / āmnāyamañjaryā nāma śrīsaṃpuṭatantrarājasya ṭīkāyāṃ (1v2) bod skad du / dpal yang dag par 'byor ba'i rgyud kyi rgyal po'i rgy cher 'grel pa man ngag gi snye ma zhes (1v4) bya ba / (1v3) namo bhagavate śrīvajrasatvāya / nama āryāvalokite(2r1)śvarāya mahākāruṇikāya / (1v4) bcom ldan 'das dpal rdo rje sems dpa' la phyag 'tshal lo // 'phags pa spyan ras gzigs (2r2) dbang phyug thugs rje chen po can la phyag 'tshal lo // mūrttir vajravilāsinībahalitānandādvayī janminām antarjyotir udañcayanty api tamastomāsta(2r3)kṛnnirmitaiḥ / yasyorjan nijaniṣprapañcaparamaprajñākṛpāsaṃpuṭaḥ kuryād (v)aḥ kuliśeśvara savila(2r5)sallakṣmīmahimno bhuvaṃ / [1] (or read: sa vila(2r5)sallakṣmī(ṃ) ) prāyo 'smi tena nāthenādhiṣṭhito māṃ hi tadgiraḥ svam arthaṃ kathayanty uccair ddaridram iva mātaraḥ / [2] (2v1) api ca svapnadṛṣṭānāṃ preraṇād vajrayoṣitāṃ / udghāṭayāmi satvārthaṃ ratnānām iva saṃpuṭaṃ / [3] kiñ ca samyaggurūdbhinnāmnāya(2v3)kalpadrumañjarīṃ / ropayāmi jagattṛptyai phalasatrair nnirarggalaiḥ / [4] iha khalv abhidheyādiśrutim vinā prāyaḥ (2v5) satāṃ śrutādau na pravṛttir ity abhidheyādikaṃ saṃgītikṛt*sāmarthyād ākṣipann āha / evam mayā śrutam ityādi iha (3r1) hi daśakalpātmakaṃ śrīsaṃpuṭatantram abhidhānaṃ tasya phalatantrātmā bhagavān* vajrasattvo deśako 'bhidheyaś ca tatsākṣātkriyāhetuta(3r3)yā hetutantram upāyatantrañ cābhidheyaṃ
+# bod skad du / / dpal yang dag par sbyor ba'i rgyud kyi rgyal po'i rgya cher 'grel pa man [dd] ngag gi snye ma zhes bya ba / / bcom ldan 'das dpal rdo rje sems dpa' la phyag 'tshal lo / / 'phags pa spyan ras gzigs dbang phyug thugs rje chen po la phyag 'tshal lo / / rdo rje sgeg mo'i dga' ba shin tu mang dang gnyis su med pa'i sku yis 'gro rnams kyi / / mun pa'i tshogs rnams nub par mdzad pa'i sprul pa rnams kyis nang gi 'od zer 'char mdzad kyang / / gang gi stobs ni gnyug ma'i spros med shes rab mchog dang thugs rje yang dag sbyor yin pa / / rdo rje'i dbang phyug de yis khyed la chen po'i sa yi phun tshogs rol pa mdzad gyur cig / / phal cher mgon po de yis bdag / / byin gyis brlabs pas de gsung gi / / don ni rang nyid gsal smra ste / / dbul po la ni ma bzhin no / / gzhan yang rmi lam du mthong ba'i / / rdo rje btsun mos bskul ba'i phyir / / rin chen lta bu'i yang dag sbyor / / sems can don du dbye bar bya / / gang yang mang dag bla mas rgyas mdzad pa'i / / man ngag dpag bsam ljon pa'i snye ma ni / / 'bras bu'i dga' ston gags med gyur rnams kyis / / 'gro ba tshim bya'i ched du bskyed par bya / / 'dir nges par brjod par bya ba la sogs pa thos pa med na phal cher dam pa rnams nyan pa la sogs pa la mi 'jug pa'i phyir na brjod par bya ba la sogs pa sdud pa pos don gyi shugs kyis 'phen zhing gsungs pa / / 'di skad bdag gis thos pa zhes pa la sogs pa'o / / 'dir brtag pa bcu'i bdag nyid dpal yang dag par sbyor ba'i rgyud ni rjod par byed pa'o / / de'i ston pa po ni 'bras bu'i rgyud kyi bdag nyid bcom ldan 'das rdo rje sems dpa' ste / / brjod par bya ba yang ngo / / de mngon du byed pa'i rgyu nyid kyis na rgyu'i rgyud dang thabs kyi rgyud kyang brjod par bya'o /
+evañ ca deśyadeśakasambandho 'bhidhānābhidheyasambandho hetuphalasambandhaś coktaḥ
+# de lta na yang bstan par bya ba dang ston pa po'i 'brel pa dang rjod par byed pa dang brjod par bya ba'i 'brel pa dang rgyu dang 'bras bu'i 'brel pa brjod do /
+(3r5) vineyānāñ ca śrīsaṃpuṭārthapratipatti(ḥ) prayojanaṃ / vajropama{ma}hāsukhaikarasā sakalajagadupakāriṇī phalavajradharasvarūpamahāmudrāsiddhiḥ (3v1) prayojanaprayojanam ity ākṣiptaṃ
+# gdul bya rnams kyis kyang dpal yang dag par sbyor ba'i don rtogs pa ni dgos pa'o / / rdo rje lta bu bde ba chen po ro gcig pa 'gro ba thams cad la phan pa byed pa 'bras bu rdo rje 'chang gi ngo bo phyag rgya chen po'i dngos grub ni dgos pa'i dgos pa'o zhes 'phangs so / / de skad du yang /
+tad evaṃ {rnam bshad rigs par} prayojanaṃ sapiṇḍārthaṃ sapadārthānusandhikaṃ
+# dgos pa bsdus pa'i don bcas shing / / tshig don bcas shing mtshams sbyar bcas / / brgal len bcas pa mdo yi don /
+sacodyaparihārañ ca vācyaṃ sūtrārtha(3v3)vācibhir iti nyāyād uktaṃ prayojanaṃ / piṇḍārthādayo vācyāḥ
+# smra pa rnams kyis brjod par bya / / zhes pa'i rigs pas dgos pa brjod pa'o / / bsdus pa'i don la sogs pa brjod par bya ste /
+tatra prathame prakaraṇe kramadvayam utpattyutpannakramātmakam uddiṣṭaṃ
+# de la rab tu byed pa dang por bskyed pa dang rdzogs pa'i rim pa'i bdag nyid can gyi rim pa gnyis mdor bstan cing /
+(3v5) dvitīye hetutantram utpannakrama eva nirddiṣṭaḥ
+# gnyis par ni rgyu'i rgyud rdzogs pa'i rim pa kho na rgyas par bshad do /
+tṛtīyacaturthābhyām utpannakrama eva pratinirddeśenābhidyotitaḥ
+# gsum pa dang bzhi pa dag gis ni rdzogs pa'i rim pa kho na rab tu rgyas par bshad par mngon par gsal bar byas so /
+etac ca kramadvayam abhiṣikta(4r1)syaiva deśanīyam abhyasanīyañ ceti kramadvayāṅgam abhiṣeko vipañcitaḥ < / > pañcame ( / ) prāptasaṃvṛtiparamārthābhiṣekasya mahāvajradharatvaprāptu(4r3)kāmasyādhimātrendriyasya mahāmudrāsiddheḥ sākṣādupāyasya mudrāyogasya sākṣādupāyotpannakramabhāvanaiva niṣṭhātā (read niṣṭhitā?) ṣaṣṭhe / mṛdumadhyendriyābhyān tūtpannakrama (4r5) utpattikramakramākramabhāvanāpūrvako bhāvanīya ity utpannakramasya sākṣādupāyotpattikramabhāvanā'virbhāvitā saptame (')ṣṭame navame daśama ekā(4v1)daśe dvādaśe ca
+# lnga par ni rim pa gnyis po 'di yang dbang bskur ba kho na la bstan par bya zhing goms par bya'o zhes rim pa gnyis kyi yan lag tu dbang bskur ba rnam par spros so / / drug par ni kun rdzob dang don dam pa'i dbang bskur ba thob cing rdo rje 'chang chen po nyid thob par 'dod pas dbang po rab la phyag rgya chen po'i dngos grub kyi dngos kyi thabs phyag rgya'i rnal 'byor gyi dngos su ba'i thabs rdzogs pa'i rim pa bsgom pa kho na nges par bzhag go / / bdun pa dang brgyad pa dang dgu pa dang bcu pa dang bcu gcig pa dang bcu gnyis par dbang po 'bring dang rtul po dag gis rdzogs pa'i rim pa ni bskyed pa'i rim pa rim gyis dang cig car bsgom pa sngon du 'gro bas bsgom par bya'o zhes rdzogs pa'i rim pa'i dngos su ba'i thabs bskyed pa'i rim pa bsgom pa gsal bar mdzad do /
+evam ubhayakramabhāvakasya yoginaḥ prāthamikasyābhimatasampādanārthaṃ sannihitayoginīnāṃ saṃketaparijñāyopāyāṅgā(nā)ṃ vā(4v3)(k)cchommādaya uktās trayodaśe caturdaśe pañcadaśe ṣoḍaśe ca
+# bcu gsum pa dang bcu bzhi pa dang bco lnga pa dang bcu drug par de ltar rim pa gnyis sgom pa po'i rnal 'byor pa las dang po pa'i mngon par 'dod pa sgrub pa'i don du nye bar gyur pa'i rnal 'byor ma rnams kyi brda yongs su shes pa'i ched du thabs kyi yan lag ngag gi brda la sogs pa rnams gsungs so /
+viditasaṃketānugrahārthaṃ milanasthānaṃ pīṭhādikam uktaṃ saptadaśe / tatra militasyā(4v5)nyasya vā kramadvayabhāvanayopāyāṅgasya viśuddhasyaiva viṣayasyopabhogārthaṃ kramadvayaṃ skandhādiviśuddhiś ca spaṣṭīkṛtāṣṭadaśe
+# bcu bdun par brda shes pa rjes su gzung ba'i don du gnas pa la sogs pa 'du ba'i gnas gsungs so / / bco brgyad par der 'dus pa'am gzhan gyis rim pa gnyis bsgoms pas thabs kyi yan lag rnam par dag pa kho na'i yul longs spyod pa'i don du rim pa gnyis dang phung po la sogs pa rnam par dag pa gsal bar mdzad do /
+evaṃvidhasyāpi (5r1) vinā caryayā (na?) mahāmudrāsiddhir iti samantabhadracaryā prakāśitā ūnaviṅśatitame viṅśatitame ca
+# bcu dgu pa dang nyi shu par rnam pa de lta bu'i yang spyod pa med na phyag rgya chen po'i dngos grub ma yin no zhes pas kun du bzang po'i spyod pa gsal bar mdzad do /
+tadanu tṛtīyaprakaraṇoktotpannakramo (5r3) nāḍīsthānaviśeṣavyavasthā ca susthāpitā ekaviṅśatitame dvāviṅśatitame ca / utpannakramasyetthaṃbhāvanārthaṃ bahirmaṇḍalahomādi(5r5)grahavañcanāvimocanāya tro(read: u-?)tpannakramamaṇḍalahomapūjādi(r) nirddiṣṭas trayoviṃśe caturviṃśe ca
+# nyi shu rtsa gcig pa dang nyi shu rtsa gnyis par de'i rjes su rab tu byed pa gsum par gsungs pa'i rdzogs pa'i rim pa dang rtsa'i gnas kyi khyad par rnam par gzhag pa yang legs par gzhag par mdzad do / / nyi shu rtsa gsum pa dang rtsa bzhi par ni rdzogs pa'i rim pa 'di ltar bsgom pa'i don du phyi rol gyi dkyil 'khor dang sbyin sreg la sogs par 'dzin pas slu ba las grol ba'i ched du rdzogs pa'i rim pa'i dkyil 'khor dang sbyin sreg dang mchod pa la sogs pa rgyas par bstan to /
+prāguktacchommāś ca(5v1)tasro dṛṣṭayaḥ karmaprasaraś copāyāṅgatvāt* / prapañcita(ḥ) pañcaviṃśe ṣaḍviṃśatitame saptaviṃśatitame 'ṣṭaviṃśe ca
+# nyi shu rtsa lnga pa dang rtsa drug pa dang rtsa bdun pa dang rtsa brgyad par sngar bshad pa'i brda dang lta stangs bzhi po rnams dang las rab 'byam yang thabs kyi yan lag nyid kyi phyir na rab tu spros so /
+ūnatriṃśattame tu vajravajra(gha)ṇṭāsvarūpaṃ nirūpitaṃ (5v3) triṃśe (')kṣasūtrādikam utkrāntir ekatriṃśe
+# nyi shu rtsa dgu par ni rdo rje dang rdo rje dril bu'i rang bzhin bstan to / / sum cu par bgrang phreng la sogs pa'o / / sum cu rtsa gcig par 'pho ba'o /
+dvātriṃśe mantrā upāyāṅgatvena samutthitāḥ
+# sum cu rtsa gnyis par thabs kyi yan lag nyid kyis na sngags rnams bsdus so /
+trayastriṃśattame tūtpanna(5v5)maṇḍalabhāvanayā mahāmudrātmakasya jātibodhidharmacakrapravarttanādivikurvaṇair utpattir uddiṣṭāḥ (read: uddiṣṭā) / vighnopaśamādyartha(6r1)m upāyāṅgam balir varṇṇata (read: varṇṇitaś) catustriṃśe
+# sum cu rtsa gsum par ni rdzogs pa'i dkyil 'khor bsgoms pas phyag rgya chen po'i bdag nyid can gyi bltams pa dang byang chub pa dang chos kyi 'khor lo bskor ba la sogs pa'i rnam par 'phrul pa rnams kyis skye ba bstan to / / sum cu rtsa bzhi par ni bgegs nye bar zhi ba la sogs pa'i don du thabs kyi yan lag gtor ma gsungs so /
+upāyāṅgaṃ paṭapustake pañcatriṃśattame
+# sum cu rtsa lnga par ni thabs kyi yan lag thang sku dang glegs bam dag go /
+pūrvoktapīṭḥādiṣu gaṇamelake (6r3) yogino vādyādir udīritaḥ ṣaṭ*triṃśa (read: °śe)
+# sum cu rtsa drug par ni sngar gsungs pa'i gnas la sogs pa rnams su tshogs la 'du ba na rnal 'byor ba'i rol mo la sogs pa gsungs so /
+evaṃ pravṛttasyāvirataṃ bhāvayato bāhyamudrām vinā na mahāmudrāsiddhi(6r5)r iti mahāmudrāsiddheḥ sākṣādupāyaḥ kulavilāsinīsevā niyamitā saptatriṅśattame
+# sum cu rtsa bdun par ni de ltar zhugs pa bsgom pa dang ma bral ba la phyi rol gyi phyag rgya med par phyag rgya chen po'i dngos grub ma yin no zhes pas phyag rgya chen po'i dngos grub kyi dngos su pa'i thabs rigs kyi sgeg mo bsten pa nges par byas so /
+evaṃ mahāmudrāsiddhisamaye niruttara(6v1)satkriyāyogīndracūḍāmaṇir nniṣṭaṅkitāṣṭatriṃśe
+# sum cu rtsa brgyad par ni de ltar phyag rgya chen po'i dngos grub kyi dus su rnal 'byor can gyi dbang phyug gi gtsug gi nor bu la bsnyen bkur bla na med pa gsungs so /
+asyaiva svārthasampattimato bhagavataḥ svarūpaviśeṣo māyāvikurvitaṃ (6v3) coddiṣṭaṃ trayastriṃśe nirdiṣṭam ūnacatvāriṃśe
+# sum cu rtsa dgu par ni rang gi don phun sum tshogs par ldan pa'i bcom ldan 'das 'di'i rang gi ngo bo'i khyad par dang sgyu ma'i rnam par 'phrul pa sum cu rtsa gsum par mdor bstan pa rgyas par bstan to /
+ete svaparārthasampattī phalatantraṃ / sarvaś caiṣa parapuruṣārthaḥ samunmūlitaḥ sakalakalpanājālā(6v5)nuttaraprajñopāyabhāvanayā samayasevāṃ vinā na saṃpadyata iti samayasevā'virbhāvitā catvāriṃśattame
+# bzhi bcu par rang dang gzhan gyi don phun sum tshogs pa 'di dag 'bras bu'i rgyud yin zhing / / skyes bu'i don gyi mchog 'di thams cad kyang rtog pa'i dra ba mtha' dag drungs phyung ba'i bla na med pa'i shes rab dang thabs bsgom pas dam tshigs bsten pa med na phun sum tshogs pa ma yin zhes dam tshig bsten pa gsal bar mdzad do /
+iti piṇḍārthena sarvasyaiva tantrārtha(7r1)syotkarṣadarśanārthatantrasambandham ākhyāya vyākhyātuḥ śrottṝṇāñ sukhena vyākhyāyai grahaṇāya ca saṃkṣepeṇābhihitārthasya padārthavyākhyānādikaṃ (7r3) yathāvasaram abhidhīyate
+# de ltar bsdus pa'i don gyis rgyud kyi don thams cad phul du byung bar bstan pa'i don du rgyud kyi 'brel pa brjod nas / / 'chad pa po dang nyan pa po rnams kyis bde blag tu 'chad pa dang gzung ba'i ched du mdor bsdus pas mngon par brjod pa'i don gyi tshig gi don bshad pa la sogs pa gnas skabs ji lta ba bzhin bshad par bya'o /
+tatraivamityādy akārṣītpadāntam ādau nidānaṃ
+# de la 'di skad ces pa la sogs pa 'dzum pa mdzad do'i tshig mthar thug pa dang por gleng gzhi ste /
+asmin sati deśe(read śa)nāpravṛtteḥ (7r5) kāladeśadeśa(ka)parṣatsāmagrī hi deśanāyā nidānaṃ
+# 'di yod na bstan pa rab tu 'jug pa'i phyir ro / / yul dang dus dang ston pa po dang 'khor tshogs pa ni bstan pa'i dang po'i rgyu ste /
+evaṃ vinā deśanāyā anupapatteḥ
+# de rnams med na bstan pa mi 'thad pa'i phyir ro /
+tad uktaṃ / {brgyad stong don bsdus su} śraddhāvatāṃ pravṛttyaṅgaṃ śāstā parṣac cha (read: ca) śākṣiṇī / (7v1) deśakālau ca nirddiṣṭau svaprāmāṇyaprasiddhaya iti / atra svaprāmāṇya(ṃ) saṃgītikartuḥ
+# de gsungs pa / / dad ldan 'jug pa'i yan lag tu / / ston pa 'khor dang dpang po dang / / yul dang dus dag nges bstan pa / / rang nyid tshad mar grub ched du'o / / zhes so / / 'dir rang nyid tshad ma ni sdud par byed pa'i 'o /
+tatra bhagavān yathābhisaṃbuddhan dharmaṃ (7v3) deśitāsvās tathāparyantānāṃ vineyānām anugrahaḥ saṃvṛttaḥ / santi punar apare tatkālābhavyā bhāvino vineyās tadanugrahāya (7v5) bhagavadadhiṣṭitair eva sattvaiḥ pṛṣṭo bhagavān evaṃ mayā śrutam iti kṛtvā mama dharmaḥ saṃgātavya ity uktavān* dharmasaṃgīti(8r1; p. 17)sūtre ataḥ saṃgītikāras tathaiva saṃgītavān*
+# de la bcom ldan 'das kyis ji ltar mngon par rdzogs par sangs rgyas pa bzhin chos bstan pa de ltar gdul bya mtha' yas pa rnams rjes su 'dzin pa yang dag par zhugs pa'o / / yang de'i dus na skal pa med par gyur pa'i gdul bya gzhan rnams yod de / / de rjes su gzud pa'i ched du bcom ldan 'das kyis byin gyis brlabs pa kho na'i byang chub sems dpa' rnams kyis zhus pa'i bcom ldan 'das kyis / / 'di skad bdag gis thos pa zhes byas nas nga'i chos bsdu bar bya'o zhes chos yang dag par sdud pa'i mdor gsungs te / / des na sdud par byed pas de bzhin kho nar bsdus so /
+ko (')tra saṃgītikāraḥ / kim anena nāmanirṇṇayena bhagavadādeśenaiva (8r3) tasya vacanāt* bhagavata evedaṃ vacanaṃ saṃgītikāras tv anuvadaty eva / ata eva tantreṣv ante pi saṃgītikārasya nāma noktaṃ
+# 'dir sdud pa po ni su yin zhe na / / ming nges par byed pa 'dis ci bya ste / / bcom ldan 'das kyis bka' gnang ba kho nas des brjod pa'i phyir 'dir ni bcom ldan 'das kho na'i gsung ste / / sdud par byed pa ni rjes su brjod pa kho na'o / / de nyid kyi phyir rgyud rnams su mtha' mar yang sdud pa po'i ming ma brjod do /
+(8r5) bhagavataś ca mahāparṣady eva samarpitabhāratvāt*
+# bcom ldan 'das kyis 'khor chen por gtad pa'i khur yin pa nyid kyi phyir na thams cad kyis smra bar bya ba yang ma yin te /
+na ca sarvair vaktavyam ato deśakād yathāśrutam eko vadati tadapare ca tatrajñatā(8v1)vinas (read: ?tatra jñānavinas or tatra jñātā vineyajanās?) tadanu manyanta iti hi saṃgītim ucyate
+# de'i phyir ston pa po las ji skad thos pa bzhin du gcig gis smra bar byed cing / / de las gzhan pa de la shes pa dang ldan pa rnams kyang de'i rjes su sems par byed do zhes pa na bsdu bar brjod par bya'o /
+vadanti punar atrādhyeṣakād vajragarbha iti
+# 'dir zhu ba po yin pa nyid kyi phyir rdo rje snying po'o zhes gsung ngo /
+api ca vakṣyati vineyajanavaśād deśaka (8v3) eva saṃgītikārakaḥ syād iti
+# gzhan yang gdul bya'i skye bo'i dbang gis ston pa po kho na sdud pa por 'gyur ro zhes 'chad par 'gyur ro /
+tatra saṃgāsyamānam aviparītaṃ sakalaṃ tantrārthaṃ manaḥpurovarttinam evam ity ayaṃ nipāto dyotayati
+# de la bsdu bar bya ba'i rgyud kyi don mtha' dag phyin ci ma log par yid la mngon du bzhag par 'di skad ces pa'i tshig phrad 'dis gsal bar mdzad do /
+(8v5) tato (')yam evaṅkāraḥ sakalatantrārthenārthavān* sampadyate / tantrārthaś ca prajñopāyamayatayā'kṣaradvayārtha(read -rthā-)vayavabhāvenāvasthita ity āmananti
+# de'i phyir ae wam gyi yi ge 'di rgyud kyi don mtha' dag gis don dang ldan pa bstan to / / rgyud kyi don yang shes rab dang thabs kyi rang bzhin nyid kyis na yi ge gnyis kyi cha shas su gyur pas gnas pa'o zhes 'doms par mdzad do /
+(9r1) evaṃkāreṇa sāmānyenākhyāya viśeṣato nirddekṣyatīti {na} punar uktā evañ cedam ekaṃ mahāvākyaṃ sad ekaṃ tantra ucyate
+# ae wam gyi ye ges spyir bshad nas khyad par du rgyas par 'chad par 'gyur bas na zlos pa nyid med do / / de ltar na yang 'di ni ngag chen po gcig tu gyur pa ste /
+maye(9r3)ti
+# rgyud gcig tu brjod do /
+mayaiva svayaṃ bhagavato na parasparayā śrutam iti / śrotravijñānena vyañjanato manovijñā{ne}nārthato (')vagataṃ (9r5) na tv idam mayā sākṣātkṛtaṃ bhagavata evāsmin sarvākārādhigamād iti dharme gauravam upadarśayati / atha vādhigame (')pi nirabhimānatvena (9v1) deśakaśāstṛsaṃjñām utpādya dharmaratnaśravaṇāmṛtātṛpta(ta)yā mahābodhisatvaiḥ sarvatathāgatair api śrūyate kim aṅgānyair iti śikṣaṇārthaṃ śrutagrahaṇaṃ
+# bdag gis zhes pa bdag nyid kho nas rang nyid kyis bcom ldan 'das las thos kyis brgyud pas ma yin pa'o / / thos pa zhes pa rna ba'i rnam par shes pas tshig las dang yid kyi rnam par shes pas don las rtogs kyi / / 'di bdag gis mngon sum du byas pa ni ma yin te / / bcom ldan 'das kho nas 'dir rnam pa thams cad rtogs pa'i phyir ro zhes chos la gus pa nye bar ston to / / yang na rtogs pa yang mngon pa'i nga rgyal med pa nyid kyis ston pa po la ston pa'i 'du shes bskyed nas / / chos rin po che nyan pa'i bdud rtsis mi ngoms pa nyid kyis byang chub sems dpa' chen po rnams dang de bzhin gshegs pa thams cad kyis kyang gsan na /
+evaṃ sāmānyenopakṣipya viśeṣataḥ sanidānaṃ kramaśo darśayati
+# gzhan phra mo rnams kyis lta ci zhes bslab pa'i don du thos pa smos so /
+ekasmin samaya ityādinā / ekaḥ kaścid asāv anekapuṇyajñāna(9v3)sambhāropanatas tithinakṣatrādibhir aparicchedyo 'cintyakālaviśeṣaḥ / sa punar atra caturthakṣaṇarūpaḥ samaya ity ākhyā yate
+# de ltar spyir nye bar 'phangs nas khyad par du / / dus gcig na zhes pa la sogs pas gleng gzhi de rim gyis ston par byed do / / gcig 'di ni bsod nams dang ye shes kyi tshogs du mas nye bar thob pa tshes dang rgyu skar la sogs pa rnams kyis yongs su ma bcad pa bsam gyis mi khyab pa'i dus kyi khyad par 'ga' zhig go / / de yang 'dir skad cig bzhi pa'i ngo bo la dus zhes brjod par bya'o /
+(10r1) tasminn ekasmin samaye bhagavāṃs tadātmyena vijahāreti sambandhaḥ
+# dus gcig po der bcom ldan 'das de'i bdag nyid kyis bzhugs so zhes 'brel to /
+atha vā ekasmin samaya iti kṣaṇe
+# yang na dus gcig na zhes pa skad cig las te /
+anenātmano (')cintyavimokṣamukhalābhitvaṃ sūcayati / (10r3) atha naikadaitac chrutam anyad anyadety ātmano bāhuśrutyam āha
+# 'dis bdag nyid bsam gyis mi khyab pa'i rnam par thar pa'i sgo thob pa nyid gsal bar byed do / / yang na dus gcig gi tshe 'di thos shing / / gzhan gyi tshe gzhan no zhes pas bdag nyid mang du thos pa nyid du gsungs so /
+atha vaikasminn eva kāle śrutam idam anyadā neti (10r5) tantraratnasyāsya durlabhatvaṃ pratipādayati
+# yang na dus gcig kho na na 'di thos kyi gzhan gyi tshe ni ma yin pas na / / rgyud sde rin po che 'di rnyed par dka' ba nyid du rtogs par byed do /
+bhajyante catvāro mārā aneneti
+# 'dis bdud bzhi po gzhom par bya bas na bcom pa ste /
+bhagaḥ prajñāpāramitocyate
+# shes rab kyi pha rol tu phyin par brjod do /
+tad uktaṃ vajraśekhare
+# de rdo rje rtse mor gsungs pa /
+(10v1) bhañjanaṃ bhagam ity uktaṃ kleśamārādibhañjanāt*
+# nyon mongs bdud sogs 'joms pa'i phyir / / 'joms pa bcom pa zhes brjod do / / shes rab kyis gzhom nyon mongs de /
+prajñābadhyāś ca te kleśā tasmāt prajñā bhagocyata iti / atha vā bhañjanty ebhir iti bhagā (10v3) aiśvaryādayo guṇāḥ
+# de phyir shes rab bcom par brjod / / yang na 'di rnams kyis skal bar byed do zhes pa skal pa ste / / dbang phyug la sogs pa'i yon tan rnams so /
+yad vakṣyati aiśvaryāsyetyādi
+# gang gsung bar 'gyur ba dbang phyug dang ni zhes pa la sogs pa'o /
+bhago 'syāstīti bhagavān*
+# skal pa de 'di la yod pas bcom ldan no /
+atha vā vipakṣāṃś caturo mārān (10v5) bhagnavān iti bhagavān*
+# yang na mi mthun pa'i phyogs bdud bzhi rnams bcom pas na bcom ldan te /
+nairuktena lopaḥ / sarve te ca yathā sarvadharmāṇāṃ tathatā / tathaiva tāṅ gatā avabuddhāḥ (11r1) tathatāyā āgatāś ca jagadarthaṃ spharaṇāt* / parebhyas tathaiva gadantīti ca nairuktavidhinā tathāgatāś ca teṣāṃ (11r3) nirmāṇasaṃbhogadharmātmakāni kāyavākcittāni
+# nges pa'i tshig gis na phyis pa'o / / thams cad kyang de rnams yin zhing / / chos rnams thams cad kyi yang dag pa ji lta ba de pa bzhin nyid ni de bzhin te / / de gshegs shing rtogs pa rnams kyang ngo / / de bzhin nyid las byon pa yang ste / / 'gro ba'i don du spro bar byed pa'i phyir ro / / gzhan rnams la de bzhin kho nar gsung ngo zhes pa nges pa'i tshig gis sgrub pas / / de bzhin gshegs pa rnams kyang ngo / / de rnams kyi sprul pa dang longs spyod rdzogs pa dang chos kyi bdag nyid sku dang gsung dang thugs rnams so /
+teṣāṃ tāny eva ca hṛdayaṃ tadekaraso vajradharaḥ
+# de rnams kyi de rnams kho na ni snying po ste / / de ro gcig pa rdo rje 'dzin pa'o /
+tatprasūtatvena tanmayatvāc ca teṣāṃ
+# de rnams de las byung ba'i phyir dang de'i rang bzhin nyid kyi phyir ro /
+(11r5) kvacit pustake hṛdayeti pāṭho nāsti lekhakadoṣāt*
+# glegs bam kha cig la snying po zhes klog pa med de / / 'bri mkhan gyi skyon nyid kyi phyir ro /
+bhagavān eva hi hṛdayaśabdapātropāttaṃ vyākhyāsyati caturthaprakaraṇe
+# bcom ldan 'das kho nas snying po'i sgra 'dir nye bar blangs pa ni rab tu byed pa bzhi par 'chad par 'gyur ro /
+tad eva vajraṃ (11v1) śūnyatārūpatvāt* / saiva yoṣit0 niruttararatihetutvāt*
+# de nyid ni rdo rje ste stong pa nyid kyi ngo bo nyid kyi phyir la / / de nyid btsun mo ste bla na med pa'i dga' ba'i rgyu nyid kyi phyir na /
+vajragarvā prajñāpāramitātmikā
+# rdo rje snyems ma shes rab kyi pha rol tu phyin pa'i bdag nyid de /
+tasyāḥ saiva ca bhago dharmodayā (11v3) tatpariṇatatvāt tatsvabhāvatvāc ca / tathā cāhādvayasamatāvijayatantre / bhago hi bhagavān buddhas tena rāgo na duṣyatīti (11v5) tasyāṃ sarvatathāgatakāyavākcittasvabhāvatvāt tryasrāyāṃ bhagavā(read: bhagā-)tmikāyāṃ daśabalādidharmodayāyāṃ
+# de'i de kho na yang bha ga chos 'byung ste / / de yongs su gyur pa nyid kyi phyir dang de'i rang bzhin nyid kyi phyir te / / de skad du yang gnyis su med pa rnam par rgyal ba'i rgyud du gsungs pa / / bha ga bcom ldan sangs rgyas te / / des na 'dod chags sun mi dbyung / / zhes so / / de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi rang bzhin nyid kyi phyir zur gsum pa / / bha ga'i bdag nyid can stobs bcu la sogs pa'i chos 'byung ba /
+āliṅgita(read: -tā-)dheyadevīpadmākhyāyā(12r1)m ādhārarūpāyāñ ca vijahāra
+# 'khyud pa'i brten par bya ba lha mo'i padma zhes bya ba rten gyi ngo bo la bzhugs so /
+bahuvacanaṃ sarvayoṣitsaṃhārākāratvād vajragarvāyāḥ / vineyavaśād daśadiganantasarvalokadhātusthira(12r3)calasarvabhāvapratiparamāṇvantarvartidharmo dayāntaḥsthaviśvābjavajrasthitavajramaṇiśikharakūṭāgārasthamahāvajradhara(12r5) maṇḍalopadarśanāc ca
+# mang po'i tshig ni rdo rje snyems ma ni btsun mo thams cad bsdus pa'i rnam pa can nyid kyi phyir dang gdul bya'i dbang gis phyogs bcu'i 'jig rten gyi khams mtha' yas pa thams cad kyi brtan pa dang g yo ba'i dngos po thams cad kyi rdul phra rab so so'i nang du 'jug pa'i chos 'byung gi nang la gnas pa'i sna tshogs padma dang rdo rje la gnas pa'i rdo rje nor bu'i rtse mo can khang pa brtsegs par bzhugs pa'i rdo rje 'dzin pa chen po'i dkyil 'khor nye bar ston pa'i phyir yang ngo /
+ihādhārātmikāyāṃ kūṭāgārasyānuktatve pi bhagasthe kūṭāgāra ity arthāt*
+# 'dir rten gyi bdag nyid la khang pa brtsegs pa ma gsungs pa nyid na yang bha ga na gnas pa'i khang pa brtsegs par zhes don gyis te /
+tadyathā nagare vasaty āḍhya (12v1) iti nagarasthe prāsāda ity arthād bhavati
+# dper na grong khyer na phyug po gnas so zhes pa grong khyer na gnas pa'i khang bzangs na'o zhes don gyis yin pa bzhin no /
+tathā tu noktam athāntarasaṃgrahārthaṃ mahāsukhabhūmeḥ prādhānyopadarśanārthañ ca (12v3) kūṭāgāram api {hi} tadekarasam eva
+# de ltar ma gsungs pa ni don gzhan bsdu ba'i don dang bde ba chen po'i sa gzhi gtso bo nyid du nye bar bstan pa'i don du'o / / khang pa brtsegs pa yang de dang ro gcig pa kho na yin pas so /
+atha vādhyātmapṛthivyādisvabhāvalocanādi yoṣidbhagāni dharmodayā nirmāṇādi(12v5)padmāni teṣu vijahāra vijahāreti vividhair upāyaiḥ kāyavākcittair nānādhimuktivineyasatvamanāṃsi hṛtavān āvarjjitavān sadā (13r1) tadā tatas tatra mayā śrutam iti pūrveṇa sambandhaḥ
+# yang na nang gi bdag nyid can sa la sogs pa'i rang bzhin spyan ma la sogs pa'i btsun mo'i bha ga rnams te chos 'byung dang sprul pa la sogs pa'i padma rnams te de rnams su bzhugs so / / bzhugs so zhes pa ni rnam pa sna tshogs pa'i thabs can gyi sku dang gsung dang thugs rnams kyis mos pa sna tshogs pa gdul bya'i sems can gyi yid phrogs te aa wa rdzi ta wan kun nas 'dun par mdzad pa gang gi tshe yin pa de'i tshe de las der bdag gis thos so zhes snga ma dang sbrel lo /
+nocyate sthitavān iti tatvataḥ kvacid api bhagavatā'pratiṣṭhānāt*
+# gnas par mdzad do zhes ma brjod pa ni de kho na nyid dun [?] bcom ldan 'das gang du yang mi gnas pa'i phyir ro / / gang gsung bar 'gyur ba /
+yat tu vyā(13r3)khyāsyati tasmin bhage sakalatathāgatayoṣitasahitaḥ sthita iti tatra niravadhikālam avasthita ity abhisandhiḥ / evaṃbhūte ca deśatraye bhagavato (13r5) vihāropadarśanena śūnyatākaruṇābhinnas sahajakāyaḥ parisphuṭam āveditaḥ taiva ca kāyena tantradeśanāpi tadekarasā darśitā / atha ca sarvatathāgata(13v1)kāyavākcittahṛdayavajro bhagavān sarvatathāgatādhipatir mahākaruṇāsvabhāvo bodhicittavajra eva
+# bha ga der de bzhin gshegs pa mtha' dag btsun mo dang bcas pa gnas so zhes pa der ni / / dus kyi mtshams med par gnas zhes mngon par dgongs so / / de ltar gyur pa'i yul gsum du bcom ldan 'das bzhugs pa bstan pas stong pa nyid dang snying rje dbyer med pa lhan cig skyes pa'i sku la gsal bar rtogs par bya ste / / sku de kho nas kyang rgyud bstan pas yang de dang ro gcig par bstan to / / yang na de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi snying po rdo rje ni bcom ldan 'das de bzhin gshegs pa thams cad kyi bdag po ste thugs rje chen po'i rang bzhin byang chub kyi sems rdo rje kho na ste /
+tasya yoṣin mahāmudrā bhagavatī mahāprajñā samanta(13v3)bhadrāparanāmikā tasyā bhagaḥ śūnyatā / sa bhagavāṃs tatra vijahāra tadātmako bhūtvaikalolībhāvena samantabhedāparāmarṣād ā(13v5)saṃsāram anabhilāpyānabhilāpyair bodhisatvatathāgatayogiyoginīḍākaḍākinīmudrāmaṇḍalamantrakādibhiḥ sārddham a (p. 29)(14r1)vikalpako pi san* pūrvabodhavaśāt sarvasatveṣu kiṃkaravāṇinyāyenāvasthita ity arthaḥ
+# de'i btsun mo phyag rgya chen mo bcom ldan 'das ma shes rab chen mo kun du bzang mo'i ming gzhan can no / / de'i bha ga ni stong pa nyid do / / bcom ldan 'das de der bzhugs te de'i bdag nyid du gyur nas ro gcig pa'i rang bzhin gyis te / / dbye ba mtha' dag gi mchog tu 'dzin pa med pa'i phyir 'khor ba'i bar du brjod du med pa'i yang brjod du med pa'i byang chub sems dpa' dang de bzhin gshegs pa dang rnal 'byor pa dang rnal 'byor ma dang mkha' 'gro dang mkha' 'gro ma dang phyag rgya dang dkyil 'khor dang sngags bye ba phrag rnams dang lhan cig tu rnam par rtog pa med kyang sngon gyi 'phen pa'i shugs kyi dbang las sems can rnams thams cad la ci bya zhes smra ba'i tshul gyis gnas pa'o zhes pa'i don te /
+yathoktaṃ / cintāmaṇir ivākampyaḥ (14r3) sarvasaṃkalpavāyubhiḥ tathā sthito pi satvānām aśeṣāśāprapūraka iti / cakrabhramaṇayogena nirvyāpāre pi tāyini
+# ji skad du gsungs pa / / yid bzhin nor bu ltar rtog pa'i / / rlung rnams kun gyis bskyod bya min / / de ltar gnas kyang sems can gyi / / re ba ma lus rdzogs par mdzad / / ces pa dang 'khor lo 'khor ba'i sbyor ba yis / / bya ba med pa'i skyob pa la'ang /
+saṃskārā(14r5)vedhasamarthyād deśanā saṃpravartata iti / yat punar evaṃkārāder ā(pc>a?)rthāntaram apy atra tantrāntrareṣu coktaṃ taddeśaṇā (14v1)ntaram eva vineyajanānāṃ dhāraṇīpratilambhārthaṃ
+# 'du byed 'phen pa'i shugs las ni / / bstan pa yang dag rab 'jug byed / / ces so / / gang yang 'dir ae wam gyi yi ge la sogs pa'i don gzhan yang 'dir dang rgyud gzhan rnams su gsungs pa ni bstan pa gzhan kho na yin cing gdul ba'i skye bo rnams kyis gzungs thob pa'i don du ste /
+ekasminn akṣare mahato 'rtharāśer nnikṣipya dhāraṇāt*
+# yi ge gcig tu don gyi phung po chen po 'phangs nas 'dzin pa'i phyir ro /
+evaṃ teṣāṃ mahārthatvena parama(14v3)maṃgalatayā tantrādāv upadeśa ity api sūcitaṃ bhavati
+# de bzhin du de rnams don chen po nyid kyis mchog tu bkra shis pa nyid kyis na rgyud kyi dang por nye bar bstan to zhes kyang gsal bar byas par 'gyur ro /
+na tv iha tadvācakatvenaiṣāṃ saṃgītir upapadyate parasparasambandhavighanāt* (14v5) sa cāpy artho vākyāntareṣūpalabdhavya (read: read: -labhya?) eveti kim atra vyākhyānanirbandhena / evaṃ kāladeśadaiśikasampad uktā
+# 'dir de brjod pa po nyid kyis na 'di rnams sdud pa ru 'thad pa ni ma yin te phan tshun 'brel pa mi 'thad pa'i phyir ro / / don de yang dag gzhan rnams su nye bar dmigs par bya ba'o zhes pa 'dir rnam par bshad pa'i 'bad pas ci bya / / de ltar dus dang yul dang ston pa po phun sum tshogs pa gsungs so /
+parṣad0sampada(15r1)m āha / tatra khalu bhagavān aśītikoṭiyogeśvaramadhya iti yogaḥ prajñopāyasamāpattis tatraiśvarya(15r3)m vaśitā tatprāptatvāt* yogeśvarā daśabhūmīśvarā mahābodhisattvāḥ
+# 'khor phun sum tshogs pa gsungs pa / / de nas bcom ldan 'das kyis rnal 'byor gyi dbang phyug bye ba phrag brgyad cu'i dbus su zhes so / / rnal 'byor ni thabs dang shes rab snyoms par 'jug pa'o / / de la dbang phyug ni dbang 'byor pa ste / / de thob pa nyid kyi phyir rnal 'byor gyi dbang phyug rnams te /
+bahutvopalakṣaṇatvena sajātīye(15r5)bhyo vajragarbhasya nirddhāraṇārtham ādau nirdiṣṭānatvena (read: nirdiṣṭatvena?) eva pārṣadyās taṣām ānantyāt*
+# sa bcu'i dbang phyug byang chub sems dpa' chen po rnams so / / mang po nyid du nye bar mtshon pa nyid kyis na rigs mthun pa rnams las rdo rje snying po nges par gzung ba'i don du dang por bstan gyi / / 'khor 'di rnams kho na tsam ni ma yin te / / de rnams mtha' yas pa nyid kyi phyir ro /
+yad vakṣyaty ante / atha parṣadi (15v1) yogiyoginī ḍākaḍākinī aśītikoṭyaś ca bodhisattvās tathāgatasaṃgham anekadheti bhagavān paracitta(15v3)jñatayā saṃpuṭaśravaṇabhavyāṃ parṣadaṃ pratītya vajragarbham adhyeṣaṇakṣamaṃ vyavalokya asaṃvidito 'dhyeṣako nāstīti (15v5) saṃcodanābhiprāyeṇodghaṭitajñānam (read: -jñānām? pl. gen. for -jña going with satvānām) eva satvānām ayan tantrarājārtho gocara iti sūcayan* smitam akārṣāt*
+# gang mjug tu gsung bar 'gyur ba / / de nas rnal 'byor pa dang rnal 'byor ma dang mkha' 'gro dang mkha' 'gro ma dang byang chub sems dpa' bye ba phrag brgyad cu dang de bzhin gshegs pa'i tshogs rnam pa du ma ste thams cad dang ldan pa'i 'khor rnams zhes so / / bcom ldan 'das gzhan gyi sems mkhyen pa nyid kyis yang dag par sbyor ba nyan pa'i skal ba dang ldan par 'khor rnams rtogs shing / / rdo rje snying po gsol ba 'debs par nus par gzigs nas / / ma bskul bar gsol ba 'debs pa po med do zhes pas na bskul bar dgongs pas / / rgyud kyi rgyal po'i don 'di ni mgo smos pas shes pa kho na'i sems can rnams kyi spyod yul lo zhes gsal bar byed cing 'dzum pa mdzad do /
+udghaṭitajñata{ya} (read: -yā) tam abhiprāyaṃ (16r1) pratītya vajragarbho 'dhyeṣituṃ prakrānta iti darśayati
+# mgo smos pas go ba nyid kyis dgongs pa de rtogs nas rdo rje snying pos gsol ba 'debs par zhugs so zhes ston to /
+samanantaram avyavahita(ṃ)
+# mdzad ma thag tu ni bar ma chad par ro /
+āsanāc candramaṇḍalāt*
+# stan las te zla ba'i dkyil 'khor las so /
+pṛthivyām iti śāsane
+# sa la zhes pa ni stan la ma yin pa'o /
+(16r3) etac cānāgatānām apy adhyeṣaṇā śikṣaṇaṃ
+# 'di yang ma 'ongs pa rnams la yang gsol ba 'debs pa slob pa'o /
+adhyeṣām āha / śrotum ityādi / jñānendreti jñānaṃ vāsanā(16r5)śeṣakleśajñeyāvaraṇaprahāṇasampadā sarvākārasarvadharamāvabodho (')dhigamasampat* / tatrendraḥ paramavaśitāprāptaḥ
+# gsol ba 'debs pa gsungs pa / / nyan par zhes bya ba la sogs pa'o / / ye shes kyi dbang po zhes pa la ye shes ni bag chags dang bcas pa'i nyon mongs pa ma lus pa dang shes bya'i sgrib pa ma lus pa spangs pa phun sum tshogs pas chos thams cad kyi rnam pa thams cad byang chub pa rtogs pa phun sum tshogs pa ste / / de la dbang po ni mchog tu dbang thob pa'o /
+(16v1) tena vaśiparamaiśvaryaprāptyā hariharahiraṇyagarbhādideśe(read: śi)kacakracūḍāmaṇitayendraḥ
+# yang na mchog gi dbang phyug thob pa des seng ge dang 'phrog byed dang dbyig gi snying po la sogs pa ston pa po'i tshogs kyi gtsug gi nor bu nyid kyis na dbang po'o /
+atha vā ādarśādijñānasva(16v3)rūpatvena jñānāni vairocanādayas tathāgatās teṣām indro 'dhipatis tajjanakatvāt*
+# yang na me long lta bu la sogs pa'i ye shes kyi rang bzhin nyid kyis na ye shes ni rnam par snang mdzad la sogs pa de bzhin gshegs pa lnga rnams yin la / / de rnams kyi dbang po bdag po ste / / de skyed pa po nyid kyi phyir ro /
+ata eva mādṛśām asādhāraṇaḥ (16v5) śāstā tvam evetyāśayo 'dhyeṣitujñānendrety āmantrayataḥ
+# de'i phyir bdag lta bu rnams kyi thun mong ma yin pa'i ston pa ni khyod kho na'o zhes pa'i bsam pa ni gsol ba 'debs pa po ye shes kyi dbang po zhes bod pa po'i 'o /
+aho vajragarbha pṛcchateti vacanavipariṇāmena pṛcchecchayeti sambandhaḥ
+# ae ma'o rdo rje snying po dris shig ces pa tshig yongs su bsgyur bas 'dri par 'dod pas zhes sbrel lo /
+aho (17r1) mahābodhisatvā ity api sambaddhavyaṃ
+# ae ma byang chub sems dpa' chen po zhes kyang sbrel bar bya'o /
+udghaṭitatvena śrotavyānurūpaṇāṃ śrottṝṇāṃ vajragarbhaprabhṛtīnāṃ āścaryagocaratvād ho ity āścaryaṃ (17r3) ity kṛtvā mantraṇaṃ
+# mgo smos pas go ba nyid kyis mnyan par 'os pa dang rjes su mthun pa'i nyan pa po rdo rje snying po la sogs pa rnams ngo mtshar gyi spyod yul nyid kyi phyir / / ae ma zhes ngo mtshar bar byas nas bod pa'o /
+vajraṃ śūnyatājñānaṃ garbho 'ntarni<r>hitam asyeti vajragarbhaḥ
+# rdo rje stong pa nyid ye shes snying po nang du byas pa 'di'i yin pa zhes pa rdo rje snying po'o /
+evaṃ prajñāsampadam ākhyāya kṛpāsampadam āha / sādhu sādhu mahākṛpeti
+# de ltar shes rab phun sum tshogs pa bshad nas thugs rje phun sum tshogs pa gsungs pa / / brtse ba chen po legs so legs so zhes pa ste /
+(17r5) atisādhutvān mahākṛpāyāḥ sādhu sādhv ity āha
+# snying rje chen po ni shin tu legs pa nyid kyi phyir legs so legs so zhes gsungs so /
+vajragarbhas bhīradharme 'bhavyā iti / bhagava(ac: ā)tā nāmantritā iti śaṅkayā pṛthagjanaśrotra(read: -ā-)bhi(17v1)sandhinā viṣādam apanetum āmantrayati maheti / śrāvakādibodhito mahatyāṃ bodhau satvam abhiprāya eṣām iti mahābodhisattvā(ḥ)
+# bdag cag ni 'dir zab mo'i chos la skal pa med pa'i phyir bcom ldan 'das kyis ma bos zhes dogs pas so so'i skye bo nyan pa po'i bsam pa sgyid lug pa bsal ba'i ched du bod par byed pa ni chen po zhes pa ste / / nyan thos la sogs pa'i byang chub las che ba'i byang chub la sems dpa' ste / / bsam pa 'di rnams kyi yin pa zhes pas byang chub sems dpa' chen po rnams so /
+(17v3) guṇā balavaiśāradyādayas teṣām ākārā āśrayāḥ
+# yon tan rnams ni stobs dang mi 'jigs pa la sogs pa rnams te de rnams kyi 'byung gnas ni rten rnams so /
+yad advayenaiṣāṃ prajñākaruṇāmayatvam uktaṃ
+# tshig gnyis pos ni 'di rnams kyi shes rab dang thugs rje'i rang bzhin nyid gsungs so /
+(17v5) evaṃm āvirbhūtaprajñopāyatayā yūyam apīdaṃ śrotum adhikṛtā iti sūcitaṃ / evaṃbhūtā evānye py atrādhikṛtā ity api darśitaṃ bhavati
+# de ltar shes rab dang thabs gsal bar gyur pa nyid kyis khyed kyang 'di nyan par dbang ba'o zhes gsal bar byas so / / de ltar gyur pa kho na'i gzhan rnams kyang 'di la dbang ba'o zhes kyang bstan par 'gyur ro / / rgyud thams cad la zhes pa /
+sarvatantreṣv iti (18r1) tadgatasyāpi rahasyasyeha nirākāṃkṣatayābhidhāsyamānatvāt* rahasyasya bahudhā vyākhyāsyamānatvenāha / tat sarvam iti
+# de rnams la yod pa'i gsang chen yang 'dir dogs pa med pa nyid du brjod par 'gyur ba nyid kyi phyir ro / / gsang chen rnam pa mang po bshad par bya ba nyid kyis na gsungs pa / / de thams cad ces pa'o /
+niruttara(18r3)dharmaśrutiyogyatayā praśāṃsitāḥ sma iti
+# bla na med pa'i chos nyan par rung ba nyid kyis bsngags pa'o /
+praharṣa (i)tyādi / praharṣād eva nirmadatvapratipādanāya muhurmuhuḥ praṇipātaḥ
+# rab tu dga' zhing zhes pa la sogs pa ste / / rab tu dga' ba kho na las dregs pa med pa nyid du bsgrub pa'i ched du yang yang du phyag byas pa'o /
+(18r5) kim iti abhidheyaṃ
+# ci zhes pa ni brjod par bya ba'o /
+katham iti pramāṇaprakārapraśnaḥ / kim iti sarvadharmāṇāṃ sādhāraṇye tatsvarūpaṃ kiṃ sarveṣām aviṣayatayā rahasyaṃ
+# ci ltar zhes pa tshad ma'i rnam pa dris pa'o / / ci zhes pa chos rnams thams cad kyi thun mong pa la ste / / de'i rang gi ngo bo ci zhig pa'o / / thams cad kyi yul ma yin pa nyid kyis gsang chen no /
+(18v1) saṃpuṭodbhaveti luptaprathamaikavacanaṃ
+# yang dag sbyor byung zhes pa ni dang po'i gcig gi tshig phyis pa'o /
+katham iti hetuphalabhāvapraśnaḥ
+# ci ltar zhes pa rgyu dang 'bras bu'i dngos po dris pa'o /
+tatra saṃpuṭodbhave kathaṃ {kiṃ} sādhanaṃ lakṣaṇaṃ bhavet* / (18v3) sarve ca te tantrāś ceti / tantraṃ prabandhas tridhā
+# de la ste yang dag par sbyor ba las byung ba las sgrub par byed pa'i mtshan nyid du 'gyur ba ci ltar dang ci zhig pa'o / / thams cad kyang de yin la rgyud rnams kyang yin pas zhes pa / / rgyud ni rgyun rnam pa gsum ste / / de skad du yang 'dus pa phyi mar gsungs pa /
+tathā cāha samājottare
+# rgyud ni rgyun zhes bya bar brjod /
+tantraprabandham ākhyātaṃ tatprabandha(18v5)s tridhā bhavet
+# rgyun de rnam pa gsum du 'gyur / / gzhi dang rang bzhin nyid dang ni /
+ādhāraḥ prakṛtiś caiva asaṃhāryaprabhedataḥ uddiṣṭapādānāṃ nirdeśam āha
+# mi 'phrogs pa yi rab dbye las / / mdor bstan pa'i tshig rnams kyi rgyas par bstan pa gsungs pa /
+prakṛtiś cākṛtihetur asaṃhāryaṃ phalan tathā
+# rang bzhin rnam pa rgyu yin te / / de bzhin mi 'phrogs 'bras bu'o /
+(19r1) ādhāras tu upāyas tu tribhis tantrārthasaṃgraha iti / bhāvanā śūnyatāṃ svarūpaṃ prakṛtir ākṛtir ity anarthāntaraṃ svarūpam ity arthaḥ sahetuḥ (19r3) upādānakāraṇaṃ hetuvajradharaḥ yad evaiṣām anādivāsanāmalāvaliptaṃ nisargasiddhaṃ buddhatvan tad eva vaimalyaprāptilakṣaṇa(19r5)sya buddhatvahetur ity arthaḥ
+# gzhi ni thabs zhes bya ba ste / / gsum gyis rgyud kyi don bsdus pa'o / / zhes so / / dngos po rnams kyi stong pa nyid kyi ngo bo ni rang bzhin dang rnam pa zhes pa don gzhan ma yin te rang gi ngo bo zhes pa'i don to / / de rgyu ste nye bar len pa'i byed pa po rgyu'i rdo rje 'dzin pa ste / / gang 'di rnams kyi thog ma med pa'i bag chags kyi dri mas ma gos pa ngo bo nyid kyis grub pa'i sangs rgyas nyid de kho na ni dri ma med pa nyid thob pa'i mtshan nyid can sangs rgyas nyid kyi rgyu'o zhes pa'i don to /
+yadi punar nisargato (')mī prabhāsvarā na bhaveyur aṅgara iva prakṣālyamāno nirmalā na syuḥ / tad uktam āryamaitre(19v1)yeṇa
+# gal te yang ngo bo nyid kyis 'di rnams 'od gsal bar gyur pa ma yin na / / sol ba bzhin du bkrus kyang dri ma med par mi 'gyur ro / / de 'phags pa byams pas gsungs pa /
+(MSA, RGVV) sarveṣām aviśiṣṭāpi tathatā śuddhim āgatā
+# thams cad la ni khyad med kyang / / de bzhin nyid ni dag gyur pa /
+tathāgatvan tasmāc ca tadgarbhāḥ sarvadehina iti
+# de bzhin gshegs nyid de yi phyir / / 'gro kun de yi snying po can / / zhes so /
+tato hetur āgantukamalāpagamād vaimalyā(read: -lya-)(19v3)prāptilakṣaṇaṃ phalaṃ phalavajradharas tadasaṃhāryam ucyate
+# rgyu de las glo bur ba'i dri ma dang bral ba las gang dri ma dang bral ba nyid thob pa'i mtshan nyid can gyi 'bras bu 'bras bu'i rdo rje 'dzin pa de ni mi 'phrogs par brjod par bya ste /
+vāsanāmalair asaṃhriyamāṇātvāt*
+# bag chags kyi dri ma rnams kyis mi 'phrogs pa nyid kyi phyir te /
+saṃharaṇaṃ samyag-haraṇam asa(ṃ)(19v5)hārasaṃkṣepo vā
+# 'phrogs pa ni yang dag par 'phrogs pa ste 'grib pa'am sdud pa'o /
+vaimalyaprāpter upāyaḥ sahakāripratyaya utpannotpattikramarūpa ādhāra ity ucyate
+# dri ma med pa nyid thob pa'i thabs te lhan cig byed pa'i rkyen bskyed pa dang rdzogs pa'i rim pa'i ngo bo ni gzhi zhes brjod par bya ste /
+tam āśrityodayād avasthānāc ca (20r1) bhūmir ivāṅkurasya
+# de la brten nas skye ba dang gnas pa'i phyir na myu gu'i sa gzhi bzhin no /
+sa copāyaḥ sākṣānmahāmudrāsiddhisamaye mudrāyogato vakṣyamāṇam anuṣṭhānaṃ
+# thabs de yang dngos su ba ni phyag rgya chen po 'grub pa'i dus su / / phyag rgya'i rnal 'byor las 'chad par 'gyur ba'i rjes su bsgrub pa ste /
+tasyāpy utpannakramaḥ sākṣādupāyaḥ / (20r3) tasyotpattikramaḥ
+# de'i yang dngos su ba'i thabs rdzogs pa'i rim pa dang de'i ni bskyed pa'i rim pa'o /
+tadaṅgāni karmaprasarābhiṣekādīni / evaṃ hetutantraṃ phalatantram upāyatantram iti tribhi{ḥ} tantrārthasya vyutpādyasya (20r5) saṃgrahaḥ
+# de'i yan lag rnams ni las rab 'byam dang dbang bskur ba la sogs pa rnams so / / de ltar rgyu'i rgyud dang 'bras bu'i rgyud dang thabs kyi rgyud ces pa rgyud gsum rnams kyis rgyud kyi don khyad par du rtogs par bya ba bsdus so /
+samājādaya iti samājo 'vi(read: 'bhi)dheyārthaḥ
+# 'dus pa la sogs pa rnams zhes pa la 'dus pa ni brjod par bya ba'i don te /
+tathā hi samājottaraṃ
+# de ltar ni 'dus pa phyi mar /
+trividhaṃ kāyavākcittaṃ guhyam ity abhidhīyate
+# sku dang gsung thugs rnam pa gsum / / gsang ba zhes par brjod par bya / / 'dus pa tshogs par rab brjod de /
+samājaṃ mīlanaṃ (20v1) proktaṃ sarvabuddhābhidhānakam iti / śūnytaikarasajñānāmṛtatayā pratyekaṃ trivajrasvabhāvatvāt*
+# sangs rgyas thams cad mngon brjod pa'o / / zhes so / / stong pa nyid dang ro gcig pa'i ye shes kyi bdud rtsi nyid kyis na /
+trividhaṃ kāyavākcittaṃ / abhavyajanā(20v3)gocaratvād guhyaṃ gopyaṃ / tasya sarvabuddharūpatvena jagadartham āvirbhūtasya samāje mahāsukhamayyāṃ trayodasyāṃ vajradharabhūmau milanam ata (20v5) eva tatsarvabuddhābhidhānakaṃ bhavati / tathā śrīsamvaraḥ / śrīr advayaṃ jñānaṃ saṃsukhaṃ traidhātukābhikrāntatvād varaś ca paramamahāsukhā(21r1)dvayācintyamūrtiś cakravarttyādivicitrarūparacanācaturacaritaḥ pratyastasamastasavāsanasaṃkalpo pi (21r3) kalaviṅkamadhuradhvanidharmadeśanayā daśabhūmīśvarān* bodhisatvān* prīṇayan* yathābhavyan nānānirmāṇair bhūmīśvarādiniravaśeṣasatvarāśiṃ (21r5) pācayan* mocayan* śuddhāvāsopary akaniṣṭhabhavane ghanavyūhavajramaṇiśikharā{di}nāmni kūṭāgāre bhavaśamāpratiṣṭhānanirvā(ṇā)tmikāṃ mahābodhisākṣāt*kṛtyāvasthitaḥ / (21v1) mahāmudrāparanāmikāṃ tathā hevajraḥ
+# so sor rdo rje gsum gyi rang bzhin nyid kyi phyir sku gsung thugs ni rnam pa gsum mo / / skal pa med pa'i skye bo'i spyod yul ma yin pa nyid kyi phyir gsang ba ste sba bar bya ba'o / / sangs rgyas thams cad kyi ngo bo nyid kyis na 'gro ba'i don gsal bar gyur pa de'i 'dus pa ni bde ba chen po'i rang bzhin bcu gsum pa rdo rje 'dzin pa'i sa la tshogs pa ste / / de nyid kyi phyir de sangs rgyas thams cad mngon rjod byed du 'gyur ro / / de bzhin du dpal bde mchog ste / / shr'i ni gnyis su med pa'i ye shes yin zhing / / sham ni bde pa ste / / khams gsum las 'das pa'i phyir mchog go / / mchog tu bde ba chen po gnyis su med pa bsam gyis mi khyab pa'i sku can 'khor los sgyur ba la sogs pa rnam pa sna tshogs pa'i gzugs kyi bkod pa la mkhas pa'i spyod pa can / / bag chags dang bcas pa'i kun du rtog pa ma lus pa so sor nub kyang ka la ping ka'i ltar snyan pa'i sgras chos bstan pas sa bcu'i dbang phyug byang chub sems dpa' rnams tshim par mdzad cing / / skal pa ji lta bar sprul pa sna tshogs pa rnams kyis sa'i dbang phyug la sogs pa sems can gyi phung po ma lus pa smin par mdzad grol bar mdzad pas / / gnas gtsang ma'i steng 'og min gyi gnas stug po bkod pa rdo rje nor bu'i rtse mo can la sogs pa'i ming can gyi khang pa brtsegs par srid pa dang zhi ba la mi gnas pa'i mya ngan las 'das pa'i bdag nyid can phyag rgya chen po'i mtshan gzhan can byang chub chen po mngon du mdzad nas bzhugs pa'o / / de bzhin du kye rdo rje ste /
+hekāreṇa mahākaruṇā vajraṃ prajñā ca bhaṇyate
+# he yig gis ni snying rje che / / badzra'ang shes rab brjod par bya /
+mahākaruṇā(21v3)śeṣajagadarthakāriṇī anālambanā karuṇā / sā punar iha sahajamahāsukhasvabhāvā prajñāśūnyatājñānaṃ tad api śūnyataikarasatvāc chūnyatā(21v5)vad eva vajram ucyate / tad eva śūnyataikarasamahāsukhamayo 'śeṣajagadarthakārī caturthakāyo hevajraḥ / tad evaṃ bhagavān eva śrīvajrasatvaḥ phālātmā (22r1) samājasamvarahevajrādisvabhāvatvena sarvatrābhidheya upāyo hetuś ca tad abhidhāyakatvena tathā vyapadiṣṭā granthaprabandhaviśeṣāḥ samājādayaḥ
+# snying rje chen po ni 'gro ba ma lus pa'i don byed pa dmigs pa med pa'i snying rje ste / / de yang 'dir lhan cig skyes pa'i bde ba chen po'i rang bzhin no / / shes rab ni stong pa nyid kyi ye shes te / / de yang stong pa nyid dang ro gcig pa'i phyir stong pa nyid bzhin kho nar rdo rjer brjod par bya'o / / de ltar na stong pa nyid dang ro gcig pa'i bde ba chen po'i rang bzhin 'gro ba ma lus pa'i don byed pa sku bzhi pa kye'i rdo rje'o / / de ltar bcom ldan 'das dpal rdo rje sems dpa' kho na 'bras bu'i bdag nyid ni 'dus pa dang bde mchog dang kye'i rdo rje la sogs pa'i rang bzhin nyid kyis thams cad du brjod par bya ba ste / / thabs dang rgyu yang ngo / / de rjod par byed pa nyid kyis na de ltar tha snyad du byas pa ni gzhung gi rgyud kyi khyad par 'dus pa la sogs pa rnams so /
+(22r3) teṣāṃ nidānam ādikāraṇaṃ saṃpuṭahetutantraṃ / asminn eva hi saty upāyatantrasya kāraṇasya pravṛtter anyathā yogād ity a(22r5)nantaram uktaṃ
+# de rnams kyi gleng gzhi ni thog ma'i rgyu yang dag par sbyor ba rgyu'i rgyud de / / gang gi phyir 'di yod pa kho na na thabs kyi rgyud byed pa po 'jug pa'i phyir te / / rnam pa gzhan du na mi rigs pa'i phyir ro zhes de ma thag tu brjod zin to / / yang dag pa ni phyin ci ma log pa ste /
+bhūtaṃ tathyam aviparītaṃ bādhakapramāṇābhāvāt*
+# gnod par byed pa'i tshad ma med pa'i phyir ro /
+niścitaṃ pramāṇāgamasiddhaṃ
+# nges pa ni tshad ma dang lung gis grub pa'o / / de ltar na /
+tahā hi dayāvān duḥkhahānā(22v1)(rtha)m upāyeṣv abhiyujyate
+# brtse ldan sdug bsngal gzhom don du / / thabs rnams la ni mngon sbyor mdzad /
+parokṣopeyataddhetos tadākhyānaṃ hi duṣkaraṃ / yuktyāgamābhyāṃ vimṛśan0 duḥkhahetuparīkṣata (PV 1-134) iti nyāyāt / (22v3) sādaranirantaradīrghakālābhyāsād bhagavatā yogipratyakṣeṇa pratyātmavedyena sākṣātkṛtaṃ / bhagava{tā}m eva caryāt* pratyakṣaṃ (22v5) sarvākāratatvagocaratvāt* mukhyatas tad evāvisamvāditayā sarvākāraṃ tatvaṃ praty abhrāntaṃ tena hi sarvadharmān alakṣaṇān prajānanti buddhā bhagavanto (23r1) na cāpi sarvākārajñatājñānasya vastutvaprasaṅgaḥ sarvadharmāntarbhāvatas tasyāpi niḥsvabhāvatvena tair abhisaṃbodhāt*
+# thabs byung de rgyu lkog gyur pas / / de 'chad pa ni dka' phyir ro / / lung dang rigs pas rnam dpyod pas / / sdug bsngal rgyu ni yongs su brtag / / ces pa'i rigs pa las / / gus pa dang bcas par bar ma chad par dus ring por goms pa las bcom ldan 'das kyis rnal 'byor pa'i mngon sum so so rang gis rig par bya bas mngon du mdzad pa'o / / bcom ldan 'das rnams kho na'i mngon sum gang yin pa ni rnam pa thams cad pa'i de kho na nyid kyi spyod yul can nyid kyi phyir na / / de kho na mi slu ba nyid kyis de kho na nyid rnam pa thams cad pa la mi 'khrul ba dngos so / / des chos rnams thams cad mtshan nyid med par sangs rgyas bcom ldan 'das rnams kyis rab tu mkhyen to / / rnam pa thams cad mkhyen pa nyid kyi ye shes dngos po nyid du thal bar 'gyur ba yang ma yin te / / de yang chos thams cad kyi nang du 'dus shing rang bzhin med pa nyid du de rnams kyis mngon par rdzogs par sangs rgyas pa'i phyir ro /
+(23r3) tathoktam āryaprajñāpāramitāyāṃ
+# de skad du yang 'phags pa shes rab kyi pha rol tu phyin par gsungs pa /
+pratyakṣalakṣaṇaṃ sarvākārajñatājñānaṃ tac ca tathāgatenālakṣaṇam (23r5) ity abhisaṃbuddham iti
+# rnam pa thams cad mkhyen pa nyid kyi ye shes ni mngon sum gyi mtshan nyid can te / / de yang de bzhin gshegs pas mtshan nyid med pa'o zhes mngon par rdzogs par sangs rgyas so / / zhes so /
+tad deśanodbheditenānumānena / {rnam 'grel du} śāstraṃ yat siddhaya(read: -ā) yuktyā svavācā ca na bādhyate
+# de'i bstan pa mchog tu che ba'i rjes su dpag pas so / / mthong dang ma mthong ba dag la / / rigs pas grub dang rang tshig gis / / gnod med bstan bcos gang yin te /
+dṛṣṭe 'dṛṣṭe ca ta(23v1)dgrāhyam iti nyāyād āgamena cārvācīnair niścittaṃ (read: -citaṃ)
+# gzung bar bya zhes pa'i rigs pa'am / / lung gis kyang tshu rol mthong ba rnams kyis nges pa'o zhes pa'i don to zhes pa ni /
+ity artha iti / ayaṃ nidānaśabdasāmarthyapratīyamāṇo (')rthaḥ katham itarathā (23v3) bādhitatvenābhūtatvāt sādhakābhāvena cāniścitatvān nidānatvaṃ
+# 'di gleng gzhi'i sgra'i shugs kyis rtogs par bya ba'i don te / / cig shos ltar na gnod par byas pa nyid kyis na yang dag pa ma yin pa nyid kyi phyir dang sgrub par byed pa med pas na ma nges pa nyid kyi phyir ci ltar gleng gzhi nyid yin /
+etac ca vitathātmādidṛṣṭyabhiniviṣṭānāṃ / (23v5) hariharahiraṇyagarbhāṇām aviṣayaḥ śrāvakāṇām api sākṣātkṛtapudgalanairātmyatvena prahīṇakleśāvaraṇānām api samastajñeyāvaraṇa(24r1)sadbhāvāt* pratyekabuddhānām api jñeyāvaraṇaikadeśasambhavāt* ato rahasyasaṃpuṭām vyācaṣṭe
+# 'di yang phyin ci log pa'i bdag la sogs par lta ba la mngon par zhen pa seng ge dang 'phrog byed dang dbyig gi snying po rnams kyi yul ma yin zhing / / nyan thos gang zag gi bdag med pa nyid mngon sum du byas pa nyid kyis nyon mongs pa'i sgrib pa spangs pa rnams kyi yang ste / / shes bya'i sgrib pa mtha' dag yod pa'i phyir dang rang sangs rgyas rnams kyi yang ste shes bya'i sgrib pa'i phyogs gcig yod pa'i phyir la / / de'i phyir gsang chen no /
+prajñopāyātmakam iti / prajñā (24r3) śūnyatā tat*jñānañ ca śūnyataikarasatvāt* / upāyo mahākaruṇā 'nālambanā 'śeṣajagadarthakāriṇī sahajamahāsukhasvabhāvā
+# yang dag par sbyor ba 'chad pa ni shes rab dang thabs kyi bdag nyid ces pa ste / / shes rab ni stong pa nyid dang de'i ye shes kyang ste stong pa nyid dang ro gcig pa nyid kyi phyir ro / / thabs ni dmigs pa med pa'i snying rje chen po 'gro ba'i don byed pa lhan cig skyes pa'i bde ba chen po'i rang bzhin no /
+tau prajñopāyā(24r5)yā cātmā svabhāvo 'dvaidhībhāvena yasya tat tathā
+# shes rab dang thabs de dag gnyis su med par gyur pas gang gi bdag nyid de rang bzhin yin pa de ni de skad de /
+saṃpuṭaṃ yuganaddhaṃ svarūpaṃ
+# yang dag par sbyor ba zung 'jug gi ngo bo'o /
+tathā ca samājottaraṃ
+# de skad du yang 'dus pa phyi mar /
+prajñopāyasamāpattir yoga ity abhidhīyate
+# shes rab thabs ni snyoms 'jug pa / / rnal 'byor zhes par mngon par brjod /
+(24v1) yā niḥsvabhāvatā prajñā upāyo bhāvalakṣaṇa iti
+# rang bzhin med gang shes rab ste / / thabs ni dngos po'i mtshan nyid do / / zhes so /
+udbhavam iti śrāvakādibhya utkarṣeṇābhijñādayo guṇāḥ phalatantrā(24v3)tmakā bhavanty utpadyante smāty (read: 'smād ity) udbhavaḥ (read: udbhavaṃ)
+# mchog tu byung ba zhes pa / / nyan thos la sogs pa rnams las mchog tu gyur pas mngon par shes pa la sogs pa'i yon tan 'bras bu'i rgyud kyi bdag nyid rnams 'di las byung zhing skyes pas na mchog tu byung ba'o /
+napuṃsakam ārṣatvāt*
+# ma ning ni gtsug lag nyid kyi phyir ro /
+anena nidānatvam abhidyotayati
+# 'dis ni gleng gzhi nyid mngon par gsal bar byed do /
+ata evāha / saṃpuṭe(24v5)tyādi / samyag ādhīyante dhāryante paripuṣṭīkriyante ca guṇā aneneti samādhir avikalpanā kin tu bhāvanayā niḥśeṣavikṣepa(25r1)vivṛttyā samādhīyamānam idam udbhavo bhavati
+# de kho na'i phyir gsungs pa / / yang dag par sbyor ba'i zhes pa la sogs pa'o / / yon tan rnams 'dis yang dag par kun nas 'dzin par byed / / yongs su rgyas par byed ces pas ting nge 'dzin te rnam par mi rtog pa'o / / 'on kyang sgom pas rnam par g yeng ba ma lus pa bzlog pas ting nge 'dzin par byed pa la 'di mchog tu 'byung bar 'gyur ro /
+samāhitacitto hi yathābhūta(ṃ) prajānāti tadanva(ya)ś ca tasya guṇā bhavantīti (25r3) samādhiśabdoktyā vyanakti
+# sems mnyam par gzhag pa ni yang dag pa ji lta ba bzhin shes par byed cing / / de'i rjes su 'gro ba can du de'i yon tan rnams 'gyur ro zhes ting nge 'dzin gyi sgra brjod pas gsal bar byed do /
+ata eva vakṣyati lakṣaṇam iti samādhānād e(va) vakṣyamāṇatvāt*
+# de nyid kyi phyir gsung bar 'gyur ba mtshan nyid ces pa ste / / ting nge 'dzin par byed pa kho na las mtshon par bya ba nyid kyi phyir ro /
+ata evāha ity artha iti / (25r5) ayan tātparyārthaḥ
+# de nyid kyi phyir gsungs pa / / zhes pa'i don to zhes pa ste / / 'di ni lhur len pa nyid kyi don to /
+udbhava utpattir ity arthakathā
+# 'byung ba ni skye ba'o zhes pa'i don brjod kyi /
+na tu bhāvapratyayānta udbhavaḥ / tad evodbhavam iti samānādhikaraṇyāt*
+# 'byung ba dngos po'i rkyen gyi mtha' can ni ma yin te / / de kho na 'byung ba'o zhes gzhi mthun pa nyid kyi phyir ro / / yang na de kho na ste /
+atha vā tad eva saṃ(25v1)puṭaṃ samādhānād āgantumalavigamenotkṛṣṭaṃ phalavajradharasvabhāvaṃ bhavatīty udbhavaṃ kartur yac* evaṃbhūtety ukta(25v3)viśeṣaṇaviśiṣṭaṃ sthirāś ca girisaritsāgarāvaniparvatādibhājanalokasvabhāvāś calāś ca satvā hetupratyayasāmagrīto bhavantī(25v5)ti bhāvas teṣāṃ svabhāvo nijaṃ rūpam ātmasvarūpa(ṃ) yasya tat tadātmakaṃ
+# yang dag par sbyor ba ni ting nge 'dzin par byed pa las glo bur ba'i dri ma dang bral bas mchog tu ste 'bras bu rdo rje 'dzin pa'i rang bzhin du 'byung ba'o zhes pa mchog tu 'byung ba ste byed pa po la aa tsa'o / / de lta bur gyur pa zhes pa bshad zin pa'i khyad par gyis khyad par du byas pa'o / / brtan pa ni ri dang chu klung dang rgya mtsho dang sa gzhi dang rlung la sogs pa snod kyi 'jig rten gyi rang bzhin rnams so / / g yo ba ni sems can rnams so /
+tasmād anyasyāsthiracalabhāvasvabhāvasyābhāvāt* sthirā(26r1)dīnāṃ bālair api pratīyamānatve tatsvabhāvasyāsyāpratīyamānatāṃ tatvāṃśo 'nabhyāsād ity āha / lakṣyate pratīkrīyata (26r3) iti etad anena bhāvyamāneneti lakṣaṇaṃ / yathā 'nityatvāder anumitasya bhāvasvābhāvye pi bhāvanātmikayā pravṛttyaiva sākṣātkriyā tathā(26r5)syeti bhāvaḥ / atra vyākhyāne saṃpuṭañ ca tad udbhavañ ca lakṣaṇañ ceti vigrahaḥ
+# rgyu dang rkyen tshogs pa las byung ngo zhes pas dngos po rnams te / / de rnams kyi rang bzhin de gnyug ma'i ngo bo gang gi bdag nyid de rang gi ngo bo yin pa de ni de'i bdag nyid can te de las gzhan pa'i brtan pa dang g yo ba'i dngos po'i rang bzhin med pa'i phyir ro / / brtan pa la sogs pa rnams ni byis pa rnams kyis kyang rtogs par bya ba nyid na yang de'i rang bzhin 'di rtogs bya ma yin pa nyid ni de kho na nyid kyi cha la ma goms pa las so zhes gsungs pa / / 'di mtshon par bya zhing mngon sum du bya'o zhes pa 'dis te bsgom par bya bzhin pas so zhes pa mtshan nyid do; / / ji ltar mi rtag pa nyid la sogs par sres su dpag pa'i dngos po'i rang bzhin nyid la yang sgom pa'i bdag nyid kyi 'jug pas mngon du bya ba de bzhin du 'di'o zhes dgongs pa'o / / bshad pa 'di la yang dag par sbyor ba yang de yin la mchog tu byung ba yang yin zhing mtshan nyid kyang ngo zhes tshig rnam par sbyar ro /
+evaṃ hetoḥ phalam utpadyata iti / phalatantram āha (26v1) atha sarvetyādi
+# de ltar rgyu las 'bras bu 'byung ngo zhes 'bras bu'i rgyud gsungs pa / / yang na thams cad ces pa la sogs pa ste /
+padānām arthaḥ prāgvat*
+# tshig gi don rnams ni sngar bzhin no /
+nidānatvaṃ bhagavato mantrādideśanāyāḥ / vajraśunyata śūnyatāvajram ucyate (26v3) iti ḍākiṇīvajrapañjaroktaḥ
+# gleng gzhi nyid ni bcom ldan 'das kyis sngags la sogs pa ston pa'i 'o / / rdo rje ni stong pa nyid de / / stong nyid rdo rjer brjod par bya / / zhes mkha' 'gro ma rdo rje gur du gsungs pa'i phyir ro /
+tatsvabhāvaṃ mahāsukhakaruṇāmayaṃ cittaṃ satvaṃ yasya / vajrasatvo vajradharaḥ
+# de'i rang bzhin bde ba chen po dang snying rje'i rang bzhin gyi sems kyi sems pa gang gi yin pa de rdo rje sems dpa' ste rdo rje 'dzin pa'o /
+viśiṣṭopāya(26v5)parikarito hetuḥ phalam abhinirvartayatīty upāyatantram āha
+# khyad par du gyur pa'i thabs kyis phan btags pa'i rgyus 'bras bu mngon par 'grub par byed do zhes thabs kyi rgyud gsungs pa /
+rahasyetyādi / rahasyahariharādyā(read: -dya-)gocaro māṇḍale(27r1)yādilakṣaṇaṃ
+# gsang chen zhes pa la sogs pa ste gsang chen ni seng ge dang 'phrog byed la sogs pa'i spyod yul ma yin pa sngags dang dkyil 'khor pa la sogs pa'i mtshan nyid do /
+upadeśakriyāyā bhavatīti aupadeśikaḥ / anenodbhavatīty udbhavam ity asyārthaḥ kathitaḥ
+# man ngag gi bya ba las byung ngo zhes pa man ngag las byung ba ste / / 'dis ni mchog tu 'byung ngo zhes pas na byung ba zhes pa'i don bshad do /
+atha vodbhavaśabdārthaḥ prāg*(27r3)vat* / tasya ca mantrādīnām upāyatvenaiva sāmarthyalabdhatvād atrodbhavaśabdeṇoktaḥ / ādiśabdena karmaprasa{ra}samayādi / lakṣaṇaśabdārthaḥ (27r5) pūrvavat*
+# yang na byung ba'i sgra'i don ni sngar bzhin te / / de'i yang sngags la sogs pa rnams thabs nyid du don gyi shugs kyis thob pa nyid kyi phyir 'dir byung ba'i sgras gsungs so / / sogs pa'i sgra las rab 'byam dang dam tshig la sogs pa'o / / mtshan nyid kyi sgra'i don ni sngar bzhin no /
+asmin avyākhyāne saṃpuṭāḍāvaṃd udbhavaṃ saṃpuṭodbhavañ ca tallakṣaṇaṃ ceti vigrahaḥ / evañ ca sati sarvatantranidānasaṃpuṭañ ca (27v1) rahasyodbhavalakṣaṇañ cety arthaḥdvayaṃ (read: arthadvayaṃ?) prācīnavyākhyāne saṃpuṭo eko 'rtha ity arthatrayaṃ sarvetyādivākyasya vāradvay āktyā (read: -oktyā?) vyākhyātaṃ
+# bshad pa 'di la yang dag par sbyor ba las byung ba ni yang dag sbyor byung ste / / de yang yin la mtshan nyid kyang ngo zhes tshig rnam par sbyar ro / / de ltar gyur na rgyud thams cad kyi gleng gzhi yang dag par sbyor ba yang yin la / / gsang chen las byung ba'i mtshan nyid kyang ngo zhes don gnyis kyi rjes su mthun par bshad pa na don gcig go zhes pa don gsum ni / / thams cad ces pa la sogs pa'i ngag lan gnyis bzlas pas gsungs te /
+(27v3) tad etad arthatrayaṃ prajñopāyasvabhāvaṃ tad eva tantram iti prādhānyena niruttaropāyāṃśaprakāśanāt (ta)syotkarṣas tantrārthaḥ kathitaḥ
+# don gsum po 'di de ni shes rab thabs kyi rang bzhin te / / de kho na rgyud do zhes pas gtso bor bla na med pa'i thabs kyi cha gsal bar byed pa'i phyir rgyud kyi don ni phul du byung ba dang bcas par gsungs te /
+(27v5) mahāmudrāsaṃyogaparamapadarūpāṇām eveha sarvabuddhānāñ ca vakṣyamāṇatvāt*
+# 'dir phyag rgya chen po dang yang dag par sbyor ba mchog gi go 'phang gi ngo bo rnams kho na dang sangs rgyas thams cad kyang 'chad par 'gyur ba'i phyir ro /
+prajñāṃśo hi sādhāraṇaḥ pāramitānayena
+# shes rab kyi cha ni pha rol tu phyin pa'i tshul dang thun mong ba ste /
+jñānakāyo (28r1) yogatantraviśeṣeṇa
+# ye shes kyi sku ni rnal 'byor gyi rgyud kyi khyad par dang ngo /
+mahāmudrāsukhaṃ tv asādhāraṇaṃ
+# phyag rgya chen po'i bde ba ni thun mong ma yin pa'o /
+yogatantrapadārthakathanena tu prajñātatvam api mukhyataḥ kathayiṣyate / me mayaiva (28r3) vajrasatvena bhavyavineyebhyaḥ pratipādānābhiprāyā(read: -ya-?)hitavāsanāparipākākṣepān nigaditam antas tatvena bahis tatvena (28r5) nigadyamānaṃ paramapramāṇapuruṣapraṇītatvād avisamvādakatvena sandehaviparyāsau na kartavyāv iti bhāvaḥ
+# rnal 'byor gyi rgyud kyi tshig gi don brjod pas ni shes rab kyi de kho na nyid kyang gtso bor 'chad par 'gyur ro / / bdag gis te rdo rje sems dpa' bdag nyid kho nas skal pa dang ldan pa'i gdul bya rnams la so sor rtog pa'i bsam pas gzhag pa'i bag chags yongs su smin pa'i 'phen pa las / / bshad pa ste nang gi de kho na nyid dang phyi'i de kho na nyid kyis bshad bzhin pa ni / / mchog tu tshad ma'i skyes bus byas pa nyid kyi phyir mi slu ba nyid kyis na the tshom dang phyin ci log dag mi bya'o zhes dgongs pa'o /
+ayam evābhiprāya aupadeśikaśabdena (28v1) prīto pi punar iha pratipāditaḥ katham api duṣkuhasya lokasya saṃpratyayo bhaved iti
+# dgongs pa 'di kho na man ngag las byung ba'i sgra yis rtogs kyang slar yang 'dir rtogs par byas pa ni / / ci ltar yang yid ches par dka' ba'i 'jig rten yid ches par 'gyur zhes pa'o /
+yadi nāma bahubhir bodhisatvaiḥ pṛṣṭas tathā(28v3)py adhyeṣakasya prādhānyādeśakavacanaṃ śṛṇv iti
+# gal te yang byang chub sems dpa' mang po rnams kyis zhus mod kyi / / de ltar yang gsol ba 'debs pa po gtso bo nyid kyi phyir nyon zhes gcig gi tshig ste /
+na tv apareṣāṃ vyavacchedaḥ
+# gzhan rnams rnam par gcod pa ni ma yin no /
+sarvadharmanaiḥsvābhāvyabhāvanayaivānādi(28v5)janmaparamparopacitamalonmūlan ena prākṛtaskandhagrahaparityāgapūrvakam utpat(t)yutpannakramābhyāṃ devatā bhāvanīyety āha / prathamam ityādi / śūnyatā (29r1) naiḥsvābhāvyaṃ prabhāsvaraṃ malāḥ kleśajñeyāvaraṇāni tair deho lepaḥ tadyuktānām aṣṭādaśadhātūnāṃ śūnyatāṃ vicintya (29r3) vastrāṇām iva prakṣālya bhāvaprādhānyāt prakṣālanaṃ kṛtvā devatā bhāvyety śeṣaḥ
+# chos thams cad rang bzhin med pa nyid du bsgom pa kho nas thog ma med pa'i skye ba brgyud par bsags pa'i dri ma rtsad nas phyung bas tha mal pa'i phung por 'dzin pa spong ba sngon du 'gro bar bskyed pa dang rdzogs pa'i rim pa dag gis lha bsgom par bya'o zhes gsungs pa / / dang por zhes pa la sogs pa ste / / stong nyid ni rang bzhin med pa nyid de 'od gsal ba'o / / dri ma rnams ni nyon mongs pa dang shes bya'i sgrib pa rnams te / / de rnams kyis lus gos pa'o / / de dang ldan pa rnams kyi khams bco brgyad rnams stong nyid du rnam par bsams te / / gos rnams ltar bkrus nas te bsam pa gtso bo nyid las bkrus par byas nas lha bsgom par bya'o zhes lhag ma'o /
+atra eva nirddiśati / rūpadhātveti
+# de nyid kyi phyir rgyas par ston te / / gzugs khams zhes pa'o /
+rūpabādhāyāṃ dhātuḥ / (29r5) rūpayati bādhate svasmin aparapraveśam iti rūpaṃ śvetapītādi dīrghahrasvādi svalakṣaṇaṃ dadhātīti dhātuḥ
+# r'u pa gnod pa la skad kyi byings te gzugs su byed rang la pha rol 'jug pa la gnod par byed do zhes pa gzugs te dkar po dang ser po la sogs pa dang ring po dang thung du la sogs pa'o / / rang gi mtshan nyid 'dzin par byed do zhes pa khams so /
+(29v1) rūpaṃ taddhātuś ceti rūpadhātus tena rūpadhātveti tṛtīyayā rūpam ārṣatvāt
+# gzugs kyang de yin la khams kyang zhes pa gzugs khams te des so / / gzugs khams kyi zhes pa gsum pas gzugs te /
+itīti svarūpeṇa para(read: ā)rthato rūpadhātunā (29v3) śūnyānām ity arthaḥ
+# gtsug lag nyid kyi phyir ro zhes bya ba rang gi ngo bos don dam par gzugs kyi khams kyis stong pa rnams zhes pa'i don to /
+na tu saṃvṛtyāpi rūpan nāsti
+# kun rdzob tu yang gzugs med pa ni ma yin no /
+tasyeti taṃ / evaśabda ivārthe
+# de'i zhes pa de'o / / nyid kyi sgra ni bzhin gyi don la ste /
+rūpadhātum ivaśabdaṃ śūnyaṃ kārayed guruḥ śiṣyam ity arthaḥ
+# gzugs kyi khams bzhin du sgra yang stong par bla mas slob ma la byed du gzhug go zhes pa'i don to /
+(29v5) evam abhivyañjayana(read: -vyañjana-?)prakṛtārthena saṃbadhnāti śabdadhātvetyādinā
+# 'di gsal bar byed cing sgra'i khams shes pa la sogs pa dkyus ma'i don dang 'brel bar byed do /
+manam iti manoviṣayaṃ dharmadhātuḥ viṣayiṇā viṣayanirdeśāt*
+# yid ces pa yid kyi yul chos kyi khams te yul can gyis yul bstan pa'i phyir ro /
+(30r1) evam uttaratra yathāyogaṃ vācyaṃ
+# de bzhin du phyi mar yang ji ltar rigs par brjod par bya'o /
+cakṣurātmyetītyanena svarūpeṇa śūnyānāṃ / vijñānaṃ vijñānaviṣayendriyayoḥ śūnyayor madhye vijñānaṃ katham a(30r3)śūnyaṃ bhavatu śūnyam eveti bhāvaḥ
+# mig bdag nyid ces bya zhes pa 'dis rang gi ngo bos stong pa rnams la rnam par shes pa ste / / rnam par shes pa'i yul dang dbang po dag stong pa dag gi dbus su rnam shes ci ltar mi stong par 'gyur te stong pa kho na'o zhes dgongs pa'o /
+manasindriyam (read: mana-indriyaṃ) bahirddharmadhātur viṣayas tābhyāṃ śūnyānāṃ
+# yid ni dbang po dang phyi rol ni yul chos kyi khams te / / de dag gis stong pa rnams kyi'o /
+upasaṃharati tasmād ityādi
+# nye bar sdud pa ni de'i phyir zhes pa la sogs pa'o /
+cakārā(30r5)d vijñānaṃ
+# yang yig gis rnam par shes pa'o /
+api rāsaka iti / apinā vijñānaṃ
+# myong ba po yang shes pa'i yang gis de'i rnam par shes pa'o /
+cittamana-indriyāṃ tadgocaraś cettikaṃ (read: caittikaṃ)
+# sems ni yid kyi dbang po dang de'i spyod yul ni sems las byung ba ste /
+apinā tadvijñānaṃ
+# yang gis de'i rnam par shes pa'o /
+atha vā rūpādayaḥ / (30v1) pañca viṣayā draṣṭrādayas tu pañca tadviṣayāṇīndriyāṇi
+# yang na gzugs la sogs pa rnams yul lnga rnams dang lta ba po la sogs pa rnams ni de'i yul can dbang po rnams te /
+cittasaṃyuktā vedanāsaṃjñāsaṃskāraskandhāś cittaviśeṣāś caittikaṃ dharma(30v3)dhātuḥ ṣaṣṭho viṣayaḥ
+# sems dang mtshungs par ldan pa tshor ba dang 'du shes dang 'du byed kyi phung po sems kyi khyad par rnams ni sems las byung ba chos kyi khams yul drug pa'o /
+cittan tu ṣaḍ0 viṣayavijñānāni manaindriyañ ca
+# sems ni yul drug gi rnam par shes pa rnams te yid kyi dbang po yang ngo /
+mana-indriyaṃ hi cakṣurādīndriyavat* < / > pṛthag nāsti
+# yid kyi dbang po ni mig la sogs pa'i dbang po bzhin du logs su med kyi /
+anantarātītam eva tu vijñā(30v5)m uttaravijñānaviśeṣotpattyādhipatyān mana-indriyam ucyate / tad evam aṣṭādaśa dhātava uktāḥ
+# 'das ma thag pa'i rnam par shes pa kho na ni rnam par shes pa'i khyad par phyi ma bskyed pa'i bdag po nyid kyi phyir yid kyi dbang por brjod do / / de ltar khams bco brgyad rnams brjod de /
+rūpadhātuś cakṣurdhātū rūpavijñānadhātuḥ / (31r1) yāvad dharmadhātur manovijñānadhātur manovijñānadhātuś ceti
+# gzugs kyi khams dang mig gi khams dag dang mig gi rnam par shes pa'i khams nas / / ji srid du chos kyi khams dang yid kyi khams dang yid kyi rnam par shes pa'i khams kyi bar ro /
+ṣaḍvijñānānāṃ manaāyatane 'ntarbhāvād dvādaśāyatanāni
+# rnam par shes pa drug rnams yid kyi skye mched kyi nang du 'dus pa'i phyir skye mched bcu gnyis te /
+rūpāyatanaṃ (31r3) cakṣurāyatanaṃ yāvad dharmāyatanaṃ mana-āyatanam iti
+# gzugs kyi skye mched dang mig gi skye mched nas ji srid du chos kyi skye mched dang yid kyi skye mched ces pa'i bar ro /
+pañcendriyāṇi pañcaviṣayāś ca rūpaskandhaḥ
+# dbang po lnga rnams dang yul lnga rnams kyang gzugs kyi phung po'o /
+pañcendriyavijñānāni vijñānaskandhaḥ
+# dbang po lnga'i rnam par shes pa rnam par shes pa'i phung po'o /
+(31r5) tadaparaṃ vijñānaṃ vijñānaviśeṣāś ca saṃskāraskandhaḥ vedanāsaṃjñāsyaskandhau (read: vedanāsaṃjñāskandhau) hi caityasya saṃskāraskandhasyaiva pra(31v1)bhedau
+# de las gzhan pa rnam par shes pa dang rnam par shes pa'i khyad par rnams ni 'du byed kyi phung po'o / / tshor ba dang 'du shes kyi phung po dag ni sems las byung ba'i 'du byed kyi phung po kho na'i rab tu dbye ba dag ste /
+saṃsārasya mūlakāraṇatvāt* pṛthaguktau
+# 'khor ba'i rtsa ba'i rgyu nyid kyi phyir logs pa brjod pa dag go /
+tatrāhlādakaparitāpakatadubhayanirmuktaviṣayasvarūpasākṣātkriyayā viṣayānu(31v3)bhūtir vijñānasyānubhavo cittir vedanety ucyate
+# de la tshim par byed pa dang yongs su gdung bar byed pa dang de gnyig las grol ba'i rang gi yul gyi rang gi ngo bo mngon du bya bas yul nyams su myong ba rnam par shes pa'i nyams su myong ba'i rig pa ni tshor ba zhes brjod do /
+nimittasya pṛthubudhnatvādikasya viśeṣasya yena caitasikena dharmeṇodgrahaṇaṃ saṃjñānaṃ paricchedaḥ (31v5) kriyate sā nimittodgrahaṇātmikā saṃjñety ucyate
+# mtshan ma ste lto che ba nyid la sogs pa'i khyad par sems las byung ba'i chos gang gis 'dzin cing 'dus te shes la ye shes la yongs su gcod par byed pa de ni mtshan mar 'dzin pa'i bdag nyid can 'du shes zhes brjod do /
+tato 'nye caitasāś cetanādayaḥ saṃskārā iti {pañca} skandhāḥ prapañcitāḥ punar muni(32r1)matālaṃkāre
+# de las gzhan pa'i sems las byung ba sems pa la sogs rnams ni 'du byed kyi phung po'o zhes pa phung po lnga rnams te / / thub pa'i dgongs pa'i rgyan du rab tu spros zin no /
+tad evam aṣṭādaśa dhātava eva sarvadhārmās teṣān tatvato naiḥsvābhāvyam uktaṃ
+# de ltar khams bco brgyad po rnams kho na chos thams cad de / / de rnams de kho na nyid du na rang bzhin med pa nyid du gsungs so / / de skad du yang /
+tathā coktaṃ dvikalpe / {phyi ma'i gsum par} (32r3) indriyaṃ viṣayaś caiva indriyajñānam eva ca
+# brtag pa gnyis par gsungs pa / / dbang po dang ni yul nyid dang / / dbang po'i rnam par shes pa nyid /
+dhātavo aṣṭādaśa khyātā yoginīnān tu bodhaye
+# rnal 'byor ma rnams go bya'i ched / / khams ni bco brgyad rnams su bshad /
+svabhāvañ cādyanutpannaṃ na satyaṃ na mṛṣā tathā / (32r5) udakacandropamaṃ sarvaṃ yoginyo janate cchayeti idaṃ yathāvat* vijñāya yadi sarvadharmāṇān tatvaṃ śūnyatā tarhi nāstitvānta(32v1)pāta iti śūnyatāṃ vicintayataḥ kuto vaimalyātmikā śuddhir iti codyābhiprāyam anāgatajanābhisandhinā vajragarbhasya parihartuṃ (32v3) śūnyatānantaraṃ devatāyogapradeśamātraṃ darśayituṃ cāha
+# rang bzhin gdod nas ma skyes pa / / bden min brdzun min de bzhin du / / thams cad chu yi zla ba ltar / / 'dod pas rnal 'byor mas shes gyis / / zhes so / / 'di ji lta ba bzhin du rnam par ma shes nas gal te chos thams cad kyi rang bzhin stong pa nyid yin na 'on med pa nyid kyi mthar lhung ngo zhes pas stong pa nyid rnam par bsams pas ci'i phyir dri ma med pa'i bdag nyid kyi dag pa yin zhes rgol ba'i bsam pa ma 'ongs pa'i skye bo la ldem por dgongs pas rdo rje snying po'i lan glan pa'i ched du stong pa nyid kyis de ma thag par lha'i rnal 'byor phyogs tsam ston pa gsungs pa /
+śṛṇv ityādi / yathā yena viśeṣeṇa mṛgyate vicintyate bhāvyata iti (32v5) mārgaḥ / tat0 śṛṇu tatheti pareṇa sambandhaḥ
+# nyon zhes bya ba la sogs pa'o / / ji lta bar khyad par gang gis tshol bar byed rnam par sems par byed bsgom par bya ba'o zhes pa lam mo / / de de ltar nyon zhes phyi ma dang 'brel lo /
+tadviśeṣaṇam āha / dvayam iti dvayābhāvo 'dvayaṃ
+# de'i khyad par gsungs pa gnyis med ces pa gnyis yod pa ma yin pa nyid ni gnyis med de /
+yasmād dvyavarjitaṃ dvayasyāstināstyā(33r1)der varjitaṃ varjanaṃ niṣedho na bhāva ity arthaḥ
+# gang gi phyir na gnyis spangs pa ste / / gnyis te yod pa dang med pa la sogs spangs shing por la bkag pa ste /
+nanu kiṃ dvayarahitaṃ madhyabhūtaṃ cittamātram api nānāsūtrāntoktaṃ nāsti
+# yod pa ma yin zhes pa'i don to / / 'o na gnyis dang bral ba dbu mar gyur pa'i sems tsam yang sna tshogs pa'i mdo sder gsungs pa med dam ci zhe na /
+nāsti / (33r3) samvṛtyā hi bhagavatā cittamātrata (read: -tā) deśitā na tu paramārthato 'sti sūtrāntare tasyāpy asvabhāvatvapratipādanāt*
+# med de gang gi phyir kun rdzob tu bcom ldan 'das kyis sems tsam nyid du bstan gyi don dam par yod pa ni ma yin pa'i phyir te / / mdo gzhan du de yang rang bzhin med pa nyid du bsgrub pa'i phyir ro /
+yathoktaṃm ārya(33r5)ratnakūṭe cittaṃ hi kāśyapa parigaveṣyamāṇaṃ labhyate
+# ji skad du 'phags pa dkon mchog brtsegs par gsungs pa / / 'od srungs sems ni yongs su btsal bar bya na mi rnyed do /
+yan na (la)bhyate tan nopalabhyate yat nopalabhyate tan naivātītaṃ nānāgataṃ (33v1) na pratyutpannaṃ / tan tryadhvaṃ(read: tryadhva-)samatikrāntaṃ tan naivāsti na nāsti yan naivāsti na nāsti tad ajātaṃ / (33v3) yad ajātaṃ tasya nāsti svabhāvaḥ
+# gang ma rnyed pa de ni nye bar mi dmigs so / / gang nye bar ma dmigs pa de ni 'das pa yang ma yin ma 'ongs pa ma yin / / da ltar byung ba ma yin te / / de ni dus gsum las yang dag par 'das pa'o / / de ni yod pa ma yin med pa ma yin te / / gang yod pa ma yin med pa ma yin pa ste ma skyes pa'o / / gang ma skyes pa de la rang bzhin med do /
+yasya nāsti svabhāvas tasya nāsty utpādaḥ / yasya nāsty utpādas tasya nāsti nirodhaḥ
+# gang la rang bzhin med pa de la skye ba med do / / gang la skye ba med pa de la 'gag pa med do; / / gang la 'gag pa med pa de la bral ba med cing 'bral ba la ni 'gro ba med / / 'ong ba med /
+yasya nāsti nirodhas tasya nāsti viśamaḥ / avigatasya (33v5) na gatir nāgatir na cyutir nopapattiḥ
+# 'chi 'pho ba med / / skye ba med do / / gang la 'gro ba med 'ong ba med 'chi 'pho ba med skye ba med pa de la 'du byed 'ga' yang med do /
+yatra na gatir nāgatir na cyutir nopapattis tatra na kecit* saṃskārā yatra na kecit* saṃskārās tad a(34r1)saṃskṛtaṃ yad asaṃskṛtaṃ tad āryāṇā(ṃ) gotram iti vistaraḥ / ata eva yad uktam atraivānityam iti / kāśyapāyam eko 'ntaḥ
+# gang la 'du byed 'ga' yang med pa de 'dus ma byas pa ste / / gang 'dus ma byas pa de 'phags pa rnams kyi rigs so zhes rgyas par ro / / de nyid kyi phyir 'di nyid du gang gsungs pa / / 'od srungs rtag ces bya ba 'di ni mtha' gcig go /
+anityam iti (34r3) dvitīyo 'ntaḥ
+# mi rtag go zhes pa 'di ni mtha' gnyis pa'o /
+tathā'stīti kāśyapāyam eko 'nta(ḥ) / nāstīti dvitīyo 'ntaḥ / yad anayor antayor madhyam arūpyam anidarśanam apratiṣṭham anābhāsam a(34r5)vijñaptikam aniketam iyam ucyate madhyamā pratipad dharmāṇāṃ bhūtapra{tya]vekṣeti / sa ca dharmadhātur idaṃ tad iti svayaṃ nirūpayitum aśakya(34v1)tvād arūpyaḥ pareṣāṃ darśayitum aśakyatvād anidarśanaḥ adhyātmikadhātvāyatanarūpeṇāpratiṣṭhitatvād apratiṣṭhaḥ bāhya(34v3)dhātvāyatanavad ābhāsāgamanād anābhāsaḥ cakṣurvijñānādidhātusvarūpatvād atikrāntatvād avijñaptikaḥ
+# 'od srungs de bzhin du yod ces bya ba 'di ni mtha' gcig ste / / med ces pa mtha' gnyis pa'o / / gang mtha' 'di dag gi dbus ni dpyad du med pa bstan du med pa rab tu mi gnas pa gnang ba med pa rnam par rig pa ma yin pa gnas med pa ste / / 'di ni dbu ma'i lam du brjod par bya ste / / chos rnams kyi yang dag pa so sor rtog pa'o zhes so / / chos kyi dbyings de yang 'di'o zhes rang gis nges bar dpyad par mi nus pa nyid kyi phyir dpyad du med pa'o / / pha rol po rnams la bstan par mi nus pa nyid kyi phyir bstan du med pa'o / / nang gi khams dang skye mched kyi ngo bor mi gnas pa nyid kyi phyir rab tu mi gnas pa'o / / phyi'i khams dang skye mched bzhin du snang nas mi rtogs pa'i phyir snang ba med pa'o / / mig gi rnam par shes pa la sogs pa'i khams kyi rang gi ngo bo las 'das pa nyid kyi phyir rnam par rig pa ma yin pa'o; /
+sakalarāgādi(34v5)kleśo (')nāspadatvād aniketa ity ucyate
+# 'dod chags la sogs pa nyon mongs pa mtha' dag gi gnas ma yin pa nyid kyi phyir gnas med pa'o zhes brjod do /
+yadi tu madhye kim api cittasvarūpātmakaṃ vastu pāramārthikaṃ bhavet tadā (35r1) tad asti nāsti vā nityam anityam iti ca(read: cā)bhiniveṣaḥ katham antaḥ syān na hi yāvat* padārthatatvānugato manaskāro yoniśa eva pātasthāna(35r3)m iti yuktaṃ
+# gal te dbus su rang gi sems kyi ngo bo'i bdag nyid can gyi dngos po don dam pa cung zad yod par gyur na de'i tshe de yod do de med do zhes pa'am rtag go zhes pa'am mi rtag go zhes mngon par zhen pa mthar ci ltar 'gyur ji srid du dngos po'i don gyi de kho na nyid kyi rjes su song ba na yid la byed pa tshul bzhin pa kho na ni lhung ba'i gnas so zhes rigs pa ma yin zhing /
+na cāpi nityādirūpatāvyatirekeṇa vastuno 'paraḥ prakāraḥ saṃbhavati yad vastutatvaṃ syāt* / madhye vastu svarūpābhāve nāsti(read: nāstī)(35r5)ty api grāho nāntaḥ syād iti cet*
+# brtag pa la sogs pa'i ngo bo nyid las ma gtogs pa dngos po'i rnam pa gzhan gang dngos po'i de kho na nyid du 'gyur ba yang med do / / dbus na dngos po'i rang gi ngo bo med na don med do zhes 'dzin pa yang mtha' ma yin par 'gyur ro zhe na /
+yad uktaṃ nāstīty avagrahasyāsti grahanāntarīyakatvāt* / na hi nirviṣayaḥ pratiṣi(d)dho 'sti
+# de mi rigs te med ces bya bar nges par 'dzin pa ni yod par 'dzin pa med na mi 'byung ba nyid kyi phyir te yul med pa'i dgag pa yod pa ni ma yin pas so /
+(35v1) āryasāgaranāgarājaparipṛcchāyāñ coktaṃ
+# 'phags pa klu'i rgyal po rgya mtshos zhus par yang gsungs pa /
+pūrvāntaśūnyā a(pa)rāntaśūnyā utpā(da)bhaṅgasthitibhāvaśūnyāḥ
+# sngon mtha' stong zhing phyi ma'i mtha' stong dang / / skye 'jig gnas pa'i dngos po stong pa ste /
+naivai (read: naiva) bhāvo 'sti na cāpy abhāvaḥ (35v3) śūnyāḥ svabhāvena hi sarvadharmā iti
+# 'di la dngos po yod min dngos med min / / chos rnams thams cad rang bzhin gyis stong pa'o /
+uktaṃ cāryanāgārjunapādaiḥ / (MMK) astīti śāśvatagrāho nāstīty ucchedadarśanaṃ / tasmād astitvanāsti(35v5)tvenāśrayīta (read: -āśrīyeta?) vicakṣaṇa iti
+# zhes so / / 'phags pa klu sgrub zhabs kyis kyang gsungs pa / / yod ces pa ni rtag par 'dzin / / med ces pa ni chad par blta / / de phyir yod nyid med nyid la / / mkhas pas gnas par mi bya'o / / zhes so / / dbu mar 'dzin pa yang 'phags pa lha'i zhabs kyis /
+madhyagrāho py āryadevapādaiḥ
+# yod dang med pa las grol ba / / dbu ma nyid du gang rtog pa /
+astināstitvanirmuktā madhyamā yā tu kalpanā
+# dbu mar mngon par zhen pa 'di / / sgyu ma'i rang gi mtshan nyid min / / zhes bkag go /
+madhyamābhiniveśo (')yaṃ (36r1) nedaṃ māyāsvalakṣaṇam iti niṣiddhaḥ / ata idaṃ paramagambhīraṃ tatvam apratarkkaṃ sa(read: sā)mānyasyābhāvāt* vitarkkāgamyam avijñeyaṃ viśeṣasyābhāvād vi(36r3)cārādiviṣayaḥ (read: -bhāvān na vicārādiṣayaḥ?) sa(read: sā-)mānyaviśeṣābhyām anyasyāpi bādhyasvarūpasyāsaṃbhavā(d) durbodhaṃ
+# de'i phyir 'di ni mchog tu zab pa'i de kho na nyid de / / brtag bya min te spyi med pa'i phyir rtogs pas rtogs bya ma yin pa'o / / rnam shes bya min te khyad par med pa'i phyir dpyod pa'i yul ma yin pa'o / / spyi dang khyad par dag las gzhan pa'i yang rtogs par bya ba'i rang gi ngo bo mi srid pa'i phyir rtogs dka' ba'o / / yang na thos pa dang bsam pa dang sgom pa'i rang bzhin gyis shes pa'i yul ma yin pa'i phyir rim pa ji lta bar tshig gsum mo /
+atha vā śruticintābhāvanāmayajñānā(36r5)viṣayatvād yathākramaṃ padatrayaṃ tārkikaiḥ sāmānyādivikalparatair hariharahiraṇyagarbhabāhyavītarāgādipṛtha(36v1)gjanaiḥ
+# rtog ge ba rnams kyis te spyi la sogs pa'i rnam par rtog pa la dga' ba seng ge dang 'phrog byed dang dbyig gi snying po dang phyi rol gyi 'dod chags dang bral ba la sogs pa so so skye bo rnams kyis so / / de nyid kyi phyir de rnams kyi spyod yul ma yin pa nyid kyi phyir gsang chen no /
+ata eva teṣām agocaratvād rahasyaṃ
+# nam mkha' dang mnyam ste rang bzhin med pa nyid kyis mtshungs pa /
+ākāśena samā tulyā niḥsvabhāvatayā buddhā bhagavantas tai(36v3)s tayaiva sadṛśam ekarasībhūtaṃ sarvāvaraṇaprahāṇāt sarvabuddhānām eva pratyātmavedyav (read: dyam?) iti bhāvaḥ
+# sangs rgyas bcom ldan 'das rnams te / / de rnams dang de kho nas 'dra ste ro gcig tu gyur pa sgrib pa thams cad spangs pa las sangs rgyas thams cad nyid kyi so so rang gis rig par bya ba'o zhes pa dgongs pa'o /
+yad vakṣyati buddhagocaram iti
+# gang gsung bar 'gyur ba sangs rgyas spyod yul lo zhes so /
+tac cāśeṣakalpanājāla(36v5)rahitena lokottareṇa jñānena sarvadharmanirābhāsena pratyātmam anupalambhato vedyate na punar upalambhataḥ / yathoktaṃ satyadvayanirdeśasūtre / (37r1) yāvat paramārtham sarvākāravaropetasarvajñajñānaviṣayātikrāntaṃ devaputra iti
+# de yang rtog pa'i dra ba ma lus pa dang bral ba'i 'jig rten las 'das pa'i ye shes kyis chos thams cad snang ba med pa so so rang gis ma dmigs pa las rig gi dmigs pa las ni ma yin no / / ji skad du bden pa gnyis nges par bstan pa'i mdor gsungs pa / / lha'i bu don dam pa'i bden pa ni ji srid du rnam pa thams cad mchog dang ldan pa'i mchog thams cad mkhyen pa'i ye shes kyi bar gyi yul las 'das pa'o zhes so /
+anena hi viṣayabhāvasamatikrāntatopapādanā(37r3)d upalambhatas taddarśanaṃ pratiṣedhati / ajñānaṃ jñeyāvaraṇa(ṃ) tad eva tatvadarśanācchādanāt tama iva tamaḥ / pratye(ac: tyai)kabuddhai(37r5)r nirmitaṃ bhāvanayā janitaṃ jñānaṃ jñeyāvaraṇaikadeśaprahāṇe pi yad yasmād vāsanāna(read: vāsanā-)gataṃ tasmāt te pi na jānanti
+# 'dis ni yul gyi dngos po las yang dag par 'das pa nye bar blangs pa'i phyir nye bar dmigs pa las de mthong ba 'gegs par byed do / / mi shes pa ni shes bya'i sgrib pa ste / / de kho na ni de kho na nyid mthong ba la 'gebs pa'i phyir mun pa dang 'dra bas mun pa'o / / rang sangs rgyas rnams kyis sprul te sgom pas bskyed pa'i ye shes ni shes bya'i sgrib pa phyogs gcig spangs na yang / / gal te gang gi phyir bag chags kyi rjes su son ba de'i phyir de rnams kyis kyang mi shes so /
+etenaitad uktaṃ
+# 'dis ni 'di gsungs te /
+(37v1) jñānam eva devatāyogātmako bodhimārga iti
+# gnyis su med pa'i ye shes kho na lha'i rnal 'byor gyi bdag nyid can ni byang chub kyi lam mo zhes pa'o /
+keṣām ity āha / samṣāretyādi / saṃsāre dhātutraye kleśakarmā(37v3)kṣipto janmaprabandhaḥ sa eva priyaviyogāpriyasaṃyogādibahūpadravanidānakleśamakarādiparikaritakaṃtatvena (read: -parikaritakatatvena?) vistīrṇa(37v5)tatvenana (read: -tvena) ca dustaratvād arṇṇavaḥ
+# su rnams kyi zhen gsungs pa / / 'khor ba zhes pa la sogs pa ste / / 'khor ba ni khams gsum du nyon mongs pa dang las kyis 'phangs pa'i skye ba'i rgyun no; / / de kho na mdza' ba dang bral ba dang mi mdza' ba dang phrad pa la sogs pa nye bar 'tshe ba mang po'i rgyu nyon mongs pa'i chu srin la sogs pas yongs su bskor ba nyid kyis dang rgya che ba nyid kyis rgal dka' ba nyid kyi phyir rgya mtsho ste /
+ata eva saghoro mahābhayāvaho yeṣāṃ / uttīrṇṇam uttaraṇaṃ
+# de nyid kyi phyir de ni 'jigs pa ste gang rnams kyi 'jigs pa chen po thob par byed pa'o / / sgrol ba ni rgal bar byed pa'o /
+tatra gataṃ ceto '(38r1)bhilāṣo yeṣāṃ prabuddhottaragotrāṇāṃ saṃsārārṇṇavasya madhye vartamānadehānām uttīrṇṇaṃ yathā bhavati tathā lakṣyo lakṣaṇīyo '(38r3)dvayajñānātmakadevatāyoga ucyate
+# der son pa'i sems te mngon par 'dod pa gang rnams kyi yin pa rigs mchog rab tu sad pa rnams kyi'o / / 'khor ba'i rgya mtsho'i dbus su 'jug bzhin pa'i lus can rnams bsgral bar ji ltar 'gyur ba de ltar mtshon bya ste /
+munīndrair saṃsāraṃ bhāṣyata ity arthaḥ
+# mtshon par bya ba gnyis su med pa'i ye shes kyi bdag nyid lha'i rnal 'byor /
+lakṣa iti pāṭhe lakṣo lakṣaṇaṃ / (38r5) tallakṣaṇam āha
+# brjod pa po ste thub pa'i dbang po rnams kyis 'khor ba'i bar du gsungs so zhes pa'i don to /
+lakṣe nirūpayet*
+# mtshon byed ces klog pa na /
+lakṣaṇaṃ svarūpaṃ / lakṣaṇāṃ lakṣaṇīyānāṃ / vijñāyanta iti vijñānāni viṣayāḥ / (38v1) jñāyanta ebhir iti jñānānīndriyāṇi / tac cetāṃsi ṣaḍ* / teṣām aṣṭādaśadhātūnāṃ jñeyānāṃ jñeyaṃ jñātavyaṃ lakṣaṇaṃ jñānena śūnyatājñānenāva(38v3)lokyādvayajñānasvarūpaṃ tad iti lakṣayed ity arthaḥ
+# mtshon byed ni mtshan nyid do / / mtshan nyid de gsungs pa; mtshon pa rnams kyi ste mtshon par bya ba rnams kyi mtshon byed de rang gi ngo bo mtshon par bya ste nges par brtan par bya'o / / rnam par shes par bya'o zhes pa rnam shes te yul rnams so / / 'di rnams kyis shes par bya ba'o zhes pa shes pa ste dbang po rnams so / / de'i sems rnams ni drug go / / shes bya rnams kyi ste khams bco brgyad po de rnams kyi shes bya ste shes par bya ba mtshan nyid / / shes pas te stong pa nyid kyi ye shes kyis blta bya ste de gnyis su med pa'i ye shes kyi rang gi ngo bor mtshon par bya'o zhes pa'i don to /
+yasmād eṣām īkṣayā nirūpaṇayā gatir dvayatatvapratītir bhavati / tato gati(r) (38v5) īkṣaṇacetasas tatvajñānanirūpaṇacittasya yoginaḥ
+# gang las 'di rnams blta ba ste / / nges par dpyad pas rtogs pa ste gnyis su med pa'i de kho na nyid chub par 'gyur ba de las rtogs pa blta ba'i bsam ldan pa'i ste de kho na nyid kyi ye shes nges par rtogs pa'i sems dang ldan pa'i rnal 'byor pa'i'o /
+patheti panthā advayajñānātmako devatāyogo mārga āmukhībhavati
+# lam zhes pa lam ste gnyis su med pa'i ye shes kyi bdag nyid lha'i rnal 'byor gyi lam mngon du phyogs par 'gyur ba'o /
+(38[ii]r1) anena svecchāya sambodhir adhigamyatāṃ
+# 'dis kyang rang 'dod bzhin du rdzogs pa'i byang chub rtogs 'gyur ro /
+asya yogino 'nuśaṃsām āha
+# rnal 'byor pa 'di'i rjes su bsngags pa gsungs pa /
+sahasretyādi sahasrāṇām anekadhā- / pūrvajanmasugati(38[ii]r3)makṣaṇādigatiṃ prāpta idānīṃ pūrvalakṣaṇavacanāt samatayaikarasatayā śūnyāṃ viśvaṃ bhāvayaṃ (read: -yan) na siddhāv api sadgatiparasparām evā(38[ii]r5)pnoty ato 'nena svecchatādhigamya tam ity arthaḥ
+# stong phrag ces pa la sogs pa ste / / stong phrag rnams rnam pa du mar skye ba snga ma rnams su 'gro bar te mi khom pa la sogs pa'i 'gro ba thob cing / / da ni snga ma'i mtshan nyid brjod pa las / / mnyam nyid de ro gcig pa nyid kyis stong par sna tshogs pa sgom par byed pa ni dngos grub med na yang bde 'gro brgyud pa kho na thob ste / / de'i phyir 'dis rang 'dod bzhin rtogs par 'gyur zhes pa'i don to /
+śūnyatā(ṃ) bhāvayitvā kimarthaṃ devatā bhāvyety āha
+# stong pa nyid bsgoms nas ci'i don du lha bsgom par bya zhe na gsungs pa / / stong pa zhes pa la sogs pa'o /
+śūnyetyādi / śūnyañ ca tataḥ (38[ii]v1) pariśuddhatvāt kṣetraṃ ādiḥ prākṛto dehaś ca tasya bīja(read: -ā-)ropaḥ praśasyate atas taṃ kuryāt* buddhir ddharmapravicayas tadvān*
+# stong pa yang de yin la / / 'di las yongs su dag pa nyid kyi phyir zhing yin zhing dang po ste tha mal pa'i lus kyang yin te / / de la sa bon 'debs pa rab tu bsngags shing de'i phyir de bya ste /
+śūnyatā (38[ii]v3) pariśuddhe dehe bījāropo buddhimato bodhyāvāhaka iti piṇḍārthaḥ / tad evam advayajñānātmadevatāyoga utpattyutpannakramā(38[ii]v5)bhyāsa(read: -ā-)bhyasanīyaḥ etad artham eva krama utpattikaś caiva krama utpanna eva ca kramadvayam anāśritya vajriṇāṃ dharmadeśanā
+# blo chos rab tu rnam par 'byed pa ste de dang ldan pas so / / stong pa nyid kyis yongs su dag pa'i lus la sa bon bskrun pa ni blo dang ldan pa'i byang chub kun nas thob par byed pa'o zhes pa bsdus pa'i don to / / de ltar gnyis su med pa'i ye shes kyi bdag nyid lha'i rnal 'byor ni bskyed pa dang rdzogs pa'i rim pa dag gis goms par bya'o / / don 'di kho na /
+tatrotpanna(39r1)kramaṃ nītārtham uddiśati / nāḍītyādi / ṇāḍī avadhūtī uṣṇīṣan maṇyantam pādatalāntañ ca yāvad avasthitā kiṃ tūṣṇīṣaśiraḥ(39r3)kaṇṭhahṛnnābhiguhyamaṇimadhyasanniviṣṭānāṃ yathākrama(ṃ) caturdvātriṃśat*-ṣoḍaśāṣṭa-catuḥ-ṣaṣṭi-dvātriṃśad-aṣṭa-saṃkhyānāṃ padmatvena bhagatvena cakra(39r5)tvena ca vyapadiṣṭānāṃ madhye granthirūpā
+# bskyed pa'i rim pa nyid dang ni / / rdzogs pa yi yang rim pa nyid / / rim gnyis mnyam par gnas nas ni / / rdo rje can rnams chos 'chad do / / zhes so / / de la rdzogs pa'i rim pa nges pa'i don du ston pa / / rtsa zhes pa la sogs pa'o / / rtsa ni aa ba dh'u t'i'i ste gtsug tor nas nor bu'i mtha' dang rkang mthil gyis mtha' ji srid par gnas pa'o / / 'on kyang gtsug tor dang spyi bo dang mgrin pa dang snying ga dang lte ba dang gsang ba dang nor bu'i dbus su chud pa'i rim pa ji lta bar bzhi dang sum cu rtsa gnyis dang bcu drug dang brgyad dang drug cu rtsa bzhi dang sum cu rtsa gnyis dang brgyad kyi grangs can padma nyid dang bha ga nyid dang 'khor lo nyid du bstan par bya ba rnams kyi dbus su mdud pa'i gzugs so; /
+tasyāḥ śiraḥsthagranthiśuśirāt karmacaṇḍālīyogena utpannakramavasantatilakākhyayoga(39v1)caṇḍālīyogena sahajacaṇḍālīyogena vā / maṇigranthau madhye guhyagranthau vāvinirgataṃ sāṃvṛtavivṛtarūpaṃ vā cittaṃ bhagavadbhagavatī(39v3)svarūpaṃ bījaṃ sarvabuddhadharmāṇāṃ trayāṇāṃ yogānām anyatamayogenotpādanīyaṃ
+# de'i spyi bor gnas pa'i mdud pa'i bu gnas las kyi gtum mo'i rnal 'byor gyis sam / / rdzogs pa'i rim pa dpyid kyi thig le zhes bya ba rnal 'byor gyi gtum ma'o rnal 'byor gyis sam lhan cig skyes pa'i gtum mo'i rnal 'byor gyis nor bu'i mdud pa'i dbus su 'am gsang ba'i mdud par nges par byung ba'i kun rdzob dang don dam pa'i ngo bo'i byang chub kyi sems bcom ldan 'das dang bcom ldan 'das ma'i rang gi ngo bo sangs rgyas kyi chos thams cad kyi sa bon ni rnal 'byor gsum rnams las gang yang rung ba'i rnal 'byor gyis bskyed par bya'o; /
+tad uktaṃ hevajratantre
+# de kye'o rdo rje'i rgyud du gsungs pa /
+{phyi ma'i bzhi par} maṇḍalaṃ cakrādyutpāye (read: -upāye) (39v5) sa svādhiṣṭḥānakrameṇa ca / bo[dhi]cittam utpādayed vivṛtisaṃvṛtirūpakaṃ
+# dkyil 'khor 'khor lo'i thabs dang pos / / rang byin brlab pa'i rim pas kyang / / kun rdzob don dam ngo bo can / / byang chub sems ni bskyed par bya /
+sāṃvṛtaṃ kundasaṃkāśaṃ vivṛtaṃ sukharūpiṇām iti
+# kun rdzob kun da lta bu la / / don dam bde ba'i ngo bo can / / zhes so / / slar yang /
+punaś ca {dang po'i brgyad par} dharmodayodbhavaṃ jñānaṃ (40r1) khasamaṃ sopāyānvitaṃ / trailokyas tatra jāto hi prajñopāyasvabhāvataḥ
+# chos 'byung las skyes ye shes ni / / mkha' mnyam thabs dang bcas ldan pa / / 'jig rten gsum po de las skyes / / shes rab thabs kyi rang bzhin las /
+śukrākāro bhaved bhagavāṃs tatsukhaṃ kāminī smṛtam iti
+# khu ba'i rnam pa bcom ldan 'gyur / / de yi bde ba 'dod mar bshad / / ces dang slar yang /
+punaḥ (40r3) svādhiṣṭhānakramo hy eṣa sarvajñajñānatanmayam iti / punaś ca maṇḍalacakrādyupāyena sātatyaṃ yāti niścitam iti
+# rang byin brlab pa'i rim 'di ni / / kun mkhyen ye shes de rang bzhin / / zhes dang slar yang / / dkyil 'khor 'khor lo'i thabs dang pos /
+atra sopāyā(40r5)nvitam iti
+# rtag par nges par 'gro bar 'gyur / / zhes so /
+sopāyaṃ sarvatrānvitaṃ / anvitatvam eva darśitaṃ trailokya ityādinā
+# 'dir thabs dang bcas ldan pa zhes pa ni thabs dang bcas pa thams cad du ldan pa ste / / ldan pa nyid kho nar 'jig rten gsum zhes pa la sogs pas bstan to /
+trayo luḍyante vinaśyanti pratikṣaṇaṃ samvṛtyeti lokāḥ kāyavāgbādhā (40v1) asyeti trilokaḥ satvaḥ sa eva trailokyaḥ svārthe yaṇ*
+# gsum rnams kun rdzob tu skad cig so sor 'jig cing rnam par 'jig go zhes pa 'jig rten lus dang ngag dang rtog pa rnams 'di'i yin pa zhes pa 'jig rten gsum ste sems can no / / de kho na 'jig rten gsum nyid de rang gi don la ya na'o /
+samāna eva sa(read:sā-)mānya iti yathā / śukrasukhayor a(40v3)va(read: -vā-)ntaraḥ prajñopāyavibhāgaḥ
+# mtshungs pa kho na mtshungs pa nyid ces pa ji lta ba bzhin no / / khu ba dang bde ba dag gi bar ni shes rab dang thabs kyi rnam par dbye ba ste /
+samāpannadevatāyor iva / na tv eṣa paramārthaḥ / pāramārthikaprajñopāyatvaṃ tu śūnyatākṛpāyor eva
+# snyoms par zhugs pa'i lha dag gi ltar yin gyi / / 'di don dam pa ni ma yin no / / don dam pa'i shes rab dang thabs ni nyid ni stong pa nyid dang snying rje dag kho na'i'o /
+(40v5) svādhiṣṭhānaṃ sekādau svayam adhiṣṭhānaṃ yat sarvajñajñānam api tanmayam eva
+# rang byin brlab pa ni dbang bskur ba la sogs pa la rang nyid byin gyis rlob par byed pa gang yin pa ste / / kun mkhyen ye shes kyang de'i rang bzhin kho na'o /
+prabhāsvaram iti sarvaprapañcatamorahitatvāt* (41r1) prakarṣeṇa bhāsanaśīla(ṃ) yathā śuddhasphaṭikaṃ / pañcatathāgatātmādarśādipañcajñānasvabhāvaṃ (41r3) tatvaṃ ṣaṣṭhavajrasatvasvarūpaṃ tasya madhye tādātmyena sthitaṃ dīvyatīti devaṃ bodhicittaṃ sahajasukhaṃ
+# 'od gsal ba zhes pa spros pa thams cad kyi mun pa dang bral ba nyid kyi phyir phul du byung bar gsal ba'i ngang tshul can te / / shel dag pa ji lta ba bzhin no / / lnga zhes pa la sogs pa ste / / de bzhin gshegs pa lnga'i bdag nyid me long lta bu la sogs pa ye shes lnga'i rang bzhin de kho na nyid ni drug pa rdo rje sems dpa'i ngo bo ste /
+tad uktaṃ dvikalpe pi / (41r5) {dang po'i brgyad par} bodhicitta(ṃ) devateti nāgārjunapādair api / cittavajravinirmukto nānyo devo (')bhidhīyata iti / avyaktaṃ paramārthataḥ śūnyatvāt*
+# de'i dbus na de'i bdag nyid kyis gnas pa rol par byed pas na lha byang chub kyi sems lhan cig skyes pa'i bde ba'o / / de brtag pa gnyis par yang gsungs pa / / byang chub sems ni lha nyid do / / zhes so / / klu sgrub zhabs kyis kyang / / sems kyi rdo rje rnam grol las / / lha gzhan mngon par brjod du med / / ces so / / mi gsal ba ni don dam par te / / stong pa nyid kyi phyir ro / / gsal ba'i gzugs can zhes pa kun rdzob tu'o /
+(41v1) vyaktarūpiṇam iti saṃvṛtyā
+# 'phel ba zhes pa la sogs pa la /
+ṛdhu vṛddhau / arddhanam arddhas tasya mātraṃ kārts(n)yaṃ para(41v3)m utkṛṣṭam yasya tat tathā 'śeṣottamārddhiyuktam ity arthaḥ
+# ri d'u 'phel ba la'o / / 'phel bar byed pa 'phel ba dang de'i tsam ste mtha' dag nyid mchog ste phul du byung ba gang gi yin pa de de skad do /
+(41v5) sūkṣmaṃ paramārthato ga(read: gā-)mbhīryāt* / kuśāgrīyabuddhi(42r1)gocaraḥ / saṃvṛtyā tu bindurūpaṃ manaupamāyasya tanmanopamam ity arthaḥ manaḥsvabhāvam ity arthaḥ hṛnma(42r3)dhya iti sahajacaṇḍāliyogam abhyasyatāṃ sāratvāt* hṛdayākhyasya mahāsukhacakragranther madhye nityam iti sarvadā cakrānta(42r5)re pi kadācid vasati na tu sarvakālam iti bhāvaḥ
+# mchog gi rdzu 'phrul ma lus pa dang ldan pa zhes pa'i don to / / phra ba ste don dam par zab pa nyid kyi phyir ku sha'i rtse mo lta bu'i blo can gyi spyod yul lo / / kun rdzob tu ni thig le'i gzugs can no / / gang gis nye bar 'jal ba yid yin pa de ni yid dpe can zhes pa gtsug lag ste yid kyi rang bzhin zhes pa'i don to / / snying gi dbus na zhes lhan cig skyes pa'i gtum mo'i rnal 'byor goms par gyur pa rnams kyi snying po nyid kyi phyir snying zhes bya ba bde ba chen po'i 'khor lo'i mdud pa'i dbus su'o /
+jyotivanta iti jyotiṣmat*
+# rtag tu zhes pa thams cad kyi tshe ste /
+sarvāvṛtitamodhvaṃsi jñānaṃ jyotiḥ / ata evā(42v1) bādhitaprakāśaprasatvān mahādyuti / dvādaśāntam iti / dvādaśa cāntaś ca pratyāsattes teṣām eveti samā[hārāt*] (unclear) (42v3) trayodaśaḥ navāntam iti tathā daśā tantur iti tantraṃ tantrasvabhāvaṃ sarvam eva / ekam iti sthānaṃ / etāni yathāyogam āpāda(42v5)talamastakam avasthitāni vakṣyamāṇapukādicaturviṃśatisthānāni vinirggatya spharaṇenābhivyāpyaṃ nābhimadhya iti (43r1) guhyam api nābhir ucyate 'to ta(d)guhyagranthimadhye yogacaṇḍālībhāvayato viśeṣeṇa mahāsukhātmanā prapañcam avadhūya sthitaṃ
+# 'khor lo gzhan du res 'ga' gnas kyi dus thams cad du ma yin no zhes dgongs pa'o / / 'od dang ldan pa zhes pa ni 'od zer dang ldan pa ste sgrib pa'i mun pa thams cad 'joms pa'i ye shes ni 'od zer ro / / de nyid kyi phyir gegs med pa'i snang ba rab 'byam pa nyid kyi phyir 'od chen te / / lung nyid kyi phyir skyes pa nyid do / / bcu gnyis mtha' zhes pa bcu gnyis dang mtha' ste / / nye ba las de rnams kho na'i 'o zhes pa kun du sdud pa las bcu gsum mo / / dgu mtha' zhes pa de ltar bcu'o / / skud pa zhes pa skud pa la ste / / thams cad skud pa'i rang bzhin kho na'o / / gcig ces pa gnas so / / 'di rnams ni ji ltar rigs par / / rkang mthil nas ni mgo bo'i bar la gnas pa rnams ni 'chad par 'gyur ba'i bu yig la sogs pa gnas nyi shu rtsa bzhi rnams te rnam 'byung nas te 'phros pas khyab par byas nas so / / lte ba'i dbus su zhes pa gsang ba yang lte bar brjod par bya ste / / de'i phyir 'dir gsang ba'i mdud pa'i dbus su rnal 'byor gyi gtum mo bsgom pa las khyad par can gyi bde ba chen po'i bdag nyid kyis spros pa bcom nas gnas pa'o /
+(43r3) uṣṇīṣacakracaturnāḍīnāṃ madhye 'vadhūtīpañcamī kaleva kalāmātraṃ
+# lnga pa zhes pa la sogs pa ste; gtsug gi 'khor lo'i rtsa bzhi po rnams kyi dbus su aa wa dh'u t'i lnga pa'i cha kho na cha tsam ste /
+yat0 nāgendrasyeva kuṇḍalākāreṇa granthisvarūpeṇa praticakraṃ (43r5) vistṛṇōti vyādhnotīti vistaraṃ sakalāpīti ārṣaṃ
+# gang klu'i dbang po'i ltar 'khyil pa'i rnam pas mdud pa'i rang gi ngo bos 'khor lo so sor rnam par rgyas shing khyab par byed ces pas rnam rgyas pa'o / / cha bcas kyang zhes lung ste /
+sahakalābhir nāḍīti vartata iti / sakalam api tat* bhindat*
+# cha rnams te rtsa rnams dang lhan cig 'jug go zhes pa cha bcas kyang ste / / de 'byed cing ngo /
+tuviśeṣeṇa (43v1) sahajasukhātmanā vajramaṇimadhye vilakṣaṇatayā niṣprapañcasvarūpaṃ gataṃ pratītaṃ karma caṇḍālīm bhāvayatā(ṃ)
+# ni ni khyad par can gyi lhan cig skyes pa'i bde ba'i bdag nyid du rdo rje nor bu'i dbus su mtshan nyid dang bral ba'i skad cig nyid kyis spros pa med pa'i rang gi ngo bor byung zhing rtogs pa ste las kyi gtum mo bsgom pa rnams kyi'o /
+tat katham i(43v3)ty āha
+# de ci ltar zhe na gsungs pa /
+yonītyādi / yoneḥ prajñāpadmasya madhye nilīnakuliśamaṇisthitam ity akṣaraṃ
+# skye gnas zhes pa la sogs pa ste / / skye gnas kyi ste shes rab ma'i padma'i dbus su 'dug pa'i rdo rje nor bur gnas pa zhes pa ma 'phos pa'o /
+etad api katham ity āha
+# 'di yang ci ltar zhe na gsungs pa /
+(43v5) dharmetyādi
+# chos zhes pa la sogs pa ste /
+dharmadhātunā cittena yogānuṣṭhānāt* sthirībhūtena dravīkṛtaṃ
+# chos kyi dbyings kyis te sems rnal 'byor sgrub pa las brtan par gyur pas zhu bar byas pa'o /
+etad yogāntare pi boddhavyaṃ ebhir viśeṣaṇair bīja(44r1)tvam asyeti draḍhayitum uktam api smārayati bījam iti / i(added i in dbu can)yam utpannakramapakṣe neyārthaṃ (44r3) vasantatilakāyogam ādṛtyoddiśati nāḍītyādi nāḍī granthiśuśiram (read: -śuṣiram) āśritaṃ bījaṃ kṛṣṇahūṃkāro bhagavatsvarūpo vasantākhyaḥ
+# 'di ni rnal 'byor gzhan la yang rtogs par bya'o / / khyad par 'di rnams kyis 'di sa bon nyid do zhes bstan bar bya ba'i ched du gsungs zin yang dran par byed pa sa bon zhes pa'o / / 'di ni rdzogs pa'i rim pa'i phyogs la nges pa'i don du rnam par bshad pa'o; / / bskyed pa'i rim pa'i phyogs la drang ba'i don du dpyid kyi thig le'i rnal 'byor bskyar te ston pa ni rtsa zhes pa la sogs pa ste / / rtsa'i mdud pa'i bu ga la brten pa'i sa bon te h'um yig nag po bcom ldan 'das kyi rang gi ngo bo dpyid ces bya ba'o / / phyed ces bya ba las la sogs pa'o / / phyi mo phyed pa yang de ste gsal byed ni / / phyi mo phyed pa can no zhes pa'i rigs pa las /
+arddhetyādi (44r5) arddhamātrañ ca tadvyañjanan tv arddhamātrikam iti nyāyāt hakārākṣaram anāhataṃ paramañ ca akārārūḍhatveno(44v1)tkṛṣṭaṃ / akārasya sarvadharmānutpādavācakatvāt0
+# ha yig mi 'gyur ba gzhom du med pa yin zhing mchog kyang ste / / aa yig la gnas pa nyid kyis phul du byung ba ste / / aa yig ni chos thams cad skye ba med pa nyid rjod par byed pa nyid kyi phyir ro / / thig le spyi bor gnas pa yis /
+bindunā śiraḥsthena rūpyate lakṣyata iti bindurūpaṃ
+# gzugs su byas shing mtshan mar byas / / zhes pa thig le'i gzugs can no /
+(44v3) upadeśāt sacandranādaṃ
+# man ngag las zla tshes dang n'a da dang bcas pa'o /
+sthānam āha / hṛnmadhye vasata iti vasantaḥ
+# gnas gsungs pa / / snying gi dbus su gnas zhes pa dpyid do /
+upadeśān mahāsukhacakramadhye haṃkāraḥ
+# man ngag las bde ba chen po'i 'khor lo'i dbus su ham yig go /
+dvādaśāntaṃ oṃkārā(44v5)kṣaraṃ ṛ-ṝ-ḷ-ḹ-napuṃsakacatuṣṭayaṃ hṛtvā svarāṇāṃ dvādaśo 'nto 'syeti vigrahāt*
+# bcu gnyis mtha' can ni aam yig mi 'gyur ba ste / / ri r'i li l'i ma ning bzhi spangs nas dbyangs rnams kyi bcu gnyis pa mtha' ma can 'di'o zhes tshig rnam par sbyar ba'i phyir ro /
+upadeśāt sacandranādaṃ / navāntam iti navama(45r1)m ante bhagavān taṃ okārākṣaram upadeśāt sacandrabindunādaṃ
+# man ngag las zla tshes dang n'a da dang bcas pa'o / / dgu mtha' zhes pa dgu pa mtha' la yod pa mtha' can te ao yig mi 'gyur ba'o / / man ngag las zla tshes dang thig le dang n'a da dang bcas pa'o /
+sthanam āha / nābhimadhye vyavasthitaṃ aṃ
+# gnas gsungs pa lte ba'i dbus su rnam par gnas te aom ngo /
+upade(45r3)śāt kaṇṭhamadhye oṃ
+# man ngag las mgrin pa'i dbus su aom mo /
+etac ca bījacatuṣṭayam āpādatalamastakam abhivyāpyāvasthitaṃ / taṃtum ekam avadhūtyākhyaṃ sakalān āpi (read: api) cakr(45r5)tantūn* bhi ddan taṃ vajramadhyagataṃ vinirgatyāśritya yonīnāṃ bhagānāṃ catuḥpadmānāṃ varaṭakamadhye sthitaṃ dharmadhātur bodhicittacandro dravīkṛto yena sthirībhūtena (45v1) tadbījam iti pūrvavat*
+# sa bon bzhi po 'di yang rkang mthil nas ni spyi gtsug par mngon par khyab par byas nas gnas pa'i skud pa gcig ste aa wa dh'u t'i zhes bya ba / / cha bcas rnams kyang ste 'khor lo'i skud pa rnams 'byed pa rdo rje'i dbus su son pa la nges par byung zhing brten nas / / skye gnas bha ga padma bzhi po rnams kyi lte ba'i dbus su gnas pa chos kyi dbyings byang chub kyi sems zla ba zhu bar byas pa dag brtan par gyur pa gang gis yin pa de ni sa bon no zhes pa snga ma bzhin no /
+anayoś cotpannotpattikramayor bhāvanā nirddekṣyate
+# rdzogs pa dang bskyed pa'i rim pa 'di dag gi yang sgom pa ston par byed de / / rim pa zhes pa la sogs pa ste /
+tasya bodhicittasya krameṇa saṃcaraṇagamanaṃ (45v3) dhārayed iti pareṇa sambandhaḥ
+# byang chub kyi sems de'i rim pas 'pho ba ste 'gro ba bzung ngo zhes phyi ma dang 'bral lo / / rlung gi bzhon pa can gyi sems 'gog par bya zhing /
+nirodhayed vāyuvāhanasya cittasya yogābhyāsananiścalīkareṇe saty utpannakramasthaḥ navadvāraṇy (read: -rāṇy) atra cakṣu(r)mūrddha(45v5)nāsākarṇajihvāgrīvabāhuhṛdayanābhimūlāni / utpattikramasthas tu bījāropeṇa dhārayed ity āha
+# rnal 'byor goms pas mi g yo bar byed par gyur pa na rdzogs pa'i rim pa la gnas pa'o / / sgo dgu rnams ni 'dir mig dang spyi bo dang sna dang rna ba dang lce dang mgrin pa dang dpung pa dang snying ga dang lte ba'i rtsa rnams te / / bskyed pa'i rim pa la gnas pas ni sa bon dgod pas gzung bar bya'o zhes gsungs pa /
+pṛthivīdvayabījasyeti pṛthivyā bīja(46r1)dvayaṃ hūṃkāradvayaṃ / cakṣus tasyeti cakṣur dvaye bhāvayet* jvaliteti agnibījaṃ kṣūṃ tāluni / vāyuśūnyādibījasyeti / śūnyatādiviśuddhaṃ vāyubījaṃ (46r3) yuṃkāraṃ
+# sa yi sa bon gnyis po ni / / zhes pa / / sa'i sa bon gnyis ni h'um yig gnyis so / / de'i mig tu zhes pa mig gnyis su bsgom par bya'o / / 'bar ba zhes pa me'i sa bon kshum rkan la'o / / rlung gi stong pa sogs sa bon / / zhes pa stong pa nyid la sogs pa rnam par dag pa /
+nāsakaṛṇṇād iti
+# rlung gi sa bon ni yam yig go /
+nāsāpuṭadvaye karṇṇapuṭadvaye ca / ādicetaseti pradhānacittarūpam ity arthaḥ / amṛtāmbubījasyeti
+# sna dang rna ba sogs zhes pa sna'i khung bu gnyis dang rna ba'i khung bu gnyis su'o / / dang po'i sems zhes pa gtso bo'i sems kyi ngo bo zhes pa'i don to / / bdud rtsi chu yi sa bon ni /
+amṛtabījaṃ suṃkāra(ṃ) (46r5) tac cāmbuviśuddhaṃ / tadbījaṃ jihvendriye niyojanīyaṃ
+# zhes pa bdud rtsi'i sa bon sum yig ste / / de yang chu rnam par dag cing de'i sa bon lce'i dbang po la sbyar bar bya'o /
+yataḥ prabhutvaṃ tasya tatra
+# gang las de der gtso bo nyid yin pa ste /
+asya nirddeśa īśvara iti
+# 'di'i rgyas par bshad pa dbang phyug ces pa'o /
+grīvāmohabījānām iti (46v1) grāvāyāṃ mohaviśuddhaṃ bījaṃ smyuṃ
+# mgrin par gti mug sa bon te / / zhes pa mgrin pa la gti mug rnam par dag pa'i sa bon smr+yum'o /
+bāhubhyām iti bāhumūladvaye kleśatas tatheti kleśaviśuddhaṃ bījaṃ hmyuṃ / caliteti vāyus ta(d)bījaṃ (46v3) ymyuṃ hṛdaye
+# dpung par zhes pa dpung pa'i rtsa ba gnyis su'o / / nyon mongs de bzhin no zhes pa nyon mongs pa rnam par dag pa'i sa bon smr+yum'o / / g yo ba zhes pa rlung ste /
+paśubhyām iti / paśuśabdena ulūkī tasyāṃ bījaṃ kṣmyuṃ nābhimūlayor iti nābhimūle / aṅgāṣṭena bījānām iti
+# de'i sa bon ym+r+yum snying gar ro / / phyugs zhes pa phyugs kyi sgras 'ug pa ma ste / / de'i sa bon kshmr+yum lte ba'i rtsa bar zhes pa lte ba'i rtsa ba dag la'o / / yan lag brgyad kyi sa bon rnams /
+aṅgair aṣṭabhir viśiṣṭai(46v5)r bījaiḥ
+# zhes pa khyad par du gyur pa'i yan lag brgyad kyi sa bon rnams kyis so /
+aṣṭāṅgeneti pāṭhe py evaṃ
+# brgyad kyi yan lag gis zhes klog pa la yang de ltar ro /
+aṣṭāṅgam iti aṣṭāv aṅgāni yasya tatkramasaṃcaraṇaṃ dhārayet kavacayen nirodhayed ity arthaḥ
+# cha brgyad ces pa gang gi yan lag brgyad rnams yin pa de rim gyis 'pho ba gzung bar bya go char byad gag par bya zhes pa'i don to /
+(47r1) nanu navadvāraṇy (read: -rāṇy) uktāni katham ihāṣṭāv aṅgāni
+# 'o na sgo dgu rnams su gsungs na ci ltar 'dir yan lag brgyad rnams yin zhe na /
+nāsākarṇṇayor ekabījatvenaikatvopacārāt* vastutas tu navaivāṅgā(47r3)nīti na virodhaḥ / vidhimān iti
+# sna dang rna ba dag sa bon gcig nyid kyis na gcig nyid du nye bar btags pa las te / / dngos por ni yan lag rnams dgu kho na'o zhes pas 'gal ba med do /
+vakṣyamāṇakrame śūnyatābhāvanānantaraṃ jñānaḍākinīrūpam ātmanaṃ vibhāvya bījair bīja(47r5)niṣpannābhir ddevatābhir vā{'}ṣṭasv aṅgeṣu yuktaḥ syād ity arthaḥ / tad evaṃ kramadvayenābhyasyamānaṃ śūnyatākaruṇābhinnaṃ bodhicittaṃ
+# cho ga ldan zhes pa 'chad par 'gyur ba'i rim pas stong pa nyid bsgoms pa'i rjes thogs su ye shes mkha' 'gro ma'i gzugs su bdag nyid rnam par bsgoms nas sa bon rnams sam sa bon las yongs su rdzogs pa'i lha rnams yan lag brgyad rnams su ldan par 'gyur ro zhes pa'i don to / / de ltar rim pa gnyis la goms par byed bzhin pa'i stong pa nyid dang snying rje dbyer med pa'i byang chub kyi sems ni / / khyab pa pos khyab par byed pa ste ci ltar zhe na /
+vyāpīti vyāpakaṃ / (47v1) kathaṃ
+# gang gi phyir des de'i bdag nyid du 'gro kun khyab pas so / / ji skad du /
+yatas tena tāvad ātmyena vyāpta(ṃ) jagat sarvaṃ
+# brtag pa gnyis par gsungs pa / / 'di nyid ye shes chen po ste /
+yathoktaṃ dvikalpe
+# thams cad lus la rnam par gnas /
+etad eva mahājñānaṃ advayaṃ dvaya(47v3)rūpañ ca bhāvābhāvātmakaṃ prabhuṃ (read: prabhuḥ or prabhu?) / sthiracala(ṃ?) vyāpya santiṣṭhen māyārūpīva bhāti ceti / kin tu jagat* / nirddiśati
+# gnyis med gnyis kyi ngo bo can / / dngos dang dngos med bdag nyid gtso / / brtan g yo khyab gnas yang dag gnas / / sgyu ma'i gzugs bzhin snang ba yang / / zhes so / / 'gro ba de ci zhig ce na /
+(47v5) sthāvarādyeti
+# rgyas par ston te brtan pa sogs /
+sthāvarādyaṃ pṛthivyādyaṃ bhājanaṃ satvalokaś ca
+# zhes pa ste brtan pa sogs ni sa gzhi la sogs pa snod dang; sems can gyi 'jig rten no /
+kva jagadvyāpakaṃ tad upalakṣyate ity āha
+# ci zhig tu 'gro ba la khyab par bya ba de nye bar mtshon par bya zhe na gsungs pa /
+ādhāram ityādi / (48r1) abrahmādisurāsuraiḥ sahitasya satvalokasya rūpasya tasyādhāro bhavati sa prabhur yatra saṃcarati / tac ca bhagavan (read: vān) dharmodayā
+# rten du zhes pa la sogs pa ste / / tshangs sogs kyi bar gyi lha dang lha min dang bcas pa'i sems can gyi 'jig rten gyi ngo bo de'i rten du 'gyur zhing gtso bo de gang du kun du spyod pa de yang bha ga ste chos kyi 'byung gnas so /
+yad vakṣyati caturthe prakaraṇe (48r3) asuram udārarūpiṇam ādhāraṃ bhaved iti nirmāṇapadmādikañ ca bhagaṃ / yasmād bhavaty utpadyate bodhicittaṃ mahāsukharūpatayāsminn iti bhavanaṃ / (48r5) prabhur iti bodhicittātmaiva prabhuḥ karttuṃ hartuñ ca svayaṃ kartā svayaṃ hartā svayaṃ rājā svayaṃ prabhur iti pravcanāt*
+# gang rab tu byed pa bzhi par gsungs bar 'gyur ba / / gru gsum yangs pa'i gzugs can no / / rten du 'gyur zhes so / / sprul pa'i 'khor lo sogs pa yang bha ga ste / / gang gi phyir 'dir byang chub kyi sems bde ba chen po'i ngo bo nyid du 'byung zhing skye ba'o zhes pa khyim mo / / gtso bo zhes pa byang chub kyi sems kyi bdag nyid kho na byed pa dang 'phrog pa la gtso bo ste / / rang nyid byed por rang 'phrog po / / rang nyid rgyal po rang gtso bo /
+(48v1) na tv īśvarādiḥ pramāṇabādhitatvāt*
+# zhes gsungs pa'i phyir ro / / dbang phyug la sogs pa ni ma yin te /
+atas tasyaiva kartuḥ karmākarma śubhāśubhaṃ bhavet* / kiyanta(ṃ) kālam ity āha
+# tshad mas gnod pa nyid kyi phyir ro / / de'i phyir byed pa po de kho na'i las dang las ma yin te dge ba dang mi dge bar 'gyur ro / / dus ji tsam du zhe na gsungs pa /
+yāva(48v3)d ityādi
+# ji srid ces pa la sogs pa ste /
+dehe prākṛtāhaṃkāraviṣayīkṛte yāvat* vividhair avagrahaiḥ sthitaḥ
+# lus la tha mal ba'i nga rgyal gyis yul du byas pa la / / rnam pa sna tshogs pa'i 'dzin pa rnams kyis gnas pa ji srid par ro /
+eta(n) nirdiśati
+# 'di nyid rgyas par ston par byed /
+kuruta ityādinā / (48v5) asyaiva ca prākṛtāhaṃkāradevapunarutpādāya devatāyogabhāvanā kathitā / yogan tv iti yogas tu samatā
+# ces pa la sogs pas tha mal pa'i nga rgyal la sogs pa 'di kho na slar mi skye ba'i ched du lha'i rnal 'byor sgom pa gsungs so / / rnal 'byor ni zhes pa la /
+prajñākṛpayor ekasamatā / bhāvanaṃ sādaram a(49r1)viratāṃ ciram abhyasanaṃ
+# rnal 'byor ni mnyam nyid de shes rab dang snying rje dag ro gcig pa nyid do / / bsgom pa ni gus pa dang bcas par rgyun ma chad par yun ring du goms par byed pa'o /
+tasmin sati yadā karmadeham iti / śubhāśubhakarmaṇaḥ kāryaṃ kāraṇam vā dehaḥ
+# de yod pa na gang tshe las kyi lus zhes pa las dge ba dang mi dge ba'i 'bras bu'am rgyu'i lus so /
+tādṛśam iti / anādi(49r3)prākṛtāhaṃkārādidoṣayuktaḥ
+# de 'dra ba zhes pa thog ma med pa'i tha mal pa'i nga rgyal la sogs pa'i skyon dang ldan pa'o /
+bhagnam iti / sadoṣavāsano niruddhaḥ
+# bcom pa zhes pa bag chags dang bcas pa'i skyon 'gags pa ste /
+tadā sa eva bodhicittātmā prabhur devatā vajradhāro (read: -dharo) (49r5) bhavati
+# de'i tshe byang chub kyi sems kyi bdag nyid kyi gtso bo de kho na lha nyid de / / rdo rje 'dzin par 'gyur ro /
+tasya ca mahāsukhamayasya yoginaḥ svarasata eva yathecchaṃ sphārasaṃhārāt kutaḥ karmāvaraṇa(ṃ) kleśāvaraṇam vā
+# bde ba chen po'i rang bzhin can gyi rnal 'byor ba de'i yang rang gi dang kho nas ji ltar 'dod pa spro ba dang sdud pa'i phyir / / ci zhig las las kyi sgrib pa'am nyon mongs pa'i sgrib pa yin /
+(49v1) nanv evaṃ sati kartṛtvādyabhāvād asya kathaṃ parārthakāritety āha
+# 'o na de ltar gyur na byed pa po nyid la sogs pa med pa'i phyir 'di ci ltar gzhan gyi don byed pa nyid zhe na / / gsungs pa /
+svaśaktiṃ tv ityādi
+# rang gi nus pa ni zhes pa la sogs pa ste /
+svā'sādhāraṇī sarvākārapa(49v3)riśuddhaśubhaikaniṣṭhā nitarāṃ śaktiḥ
+# rang ste thun mong ma yin pa rnam pa thams cad yongs su dag pa'i dge ba gcig pu mthar thug pa mchog tu nus pa'o /
+yoneti yā āsaṃsāram an acchinnam aparimitanirmāṇakāyair jagad vyāpyādeśanādi(49v5)vicitraprātihāryair yathābhavyaṃ vineyānāṃ sugatau yānatraye ca pratiṣṭhāpanaṃ karoti harati ca duritādīni
+# gang gis zhes pa 'khor ba'i bar du rgyun ma chad par dpag tu med pa'i sprul pa'i sku rnams kyis 'gro ba khyab par byas nas kun ston pa la sogs pa'i cho 'phrul ngo mtshar ba rnams kyis skal pa ji lta ba bzhin du gdul bya rnams bde 'gro dang theg pa gsum la 'jog bar mdzad cing sdig pa la sogs pa rnams 'phrog go /
+hantaivaṃ sati saprapañco (50r1) (')sāv iti cet*
+# 'o na de ltar gyur na 'di spros pa dang bcas pa'o zhe na /
+na / yasmāt* varṇṇam ityādi
+# ma yin te / / gang gi phyir /
+varṇṇāta iti varṇṇasvarūpam ākāśasadṛśaṃ śūnyaṃ tato nāsya prapañca (50r3) ity arthaḥ
+# kha dog ces pa la sogs pa ste / / kha dog tu bya bas na kha dog ste rang gi ngo bo'o /
+tata iti svaśakteḥ / yady evaṃ śrāvakavat* nirvāṇānte patati smeti nety āha
+# nam mkha' dang 'dra ba stong pa ste / / de'i phyir 'di spros pa ma yin no zhes pa'i don to /
+nirvāṇa iti / (50r5) prajñayā na bhave sthānaṃ kṛpayā na śame sthitir iti bhavanirvāṇāpratiṣṭhe sarvāvaraṇānāṃ nirvāṇe nirāsravamahāsukhaika(50v1)svabhāve sthito viratamāṃ saṃsāraṃ / yato (')sau vīreti / sarojavaj jaladoṣair vipakṣair durjayatvāt* / (50v3) tan nirjjayāc ca vīraḥ
+# de las zhes pa rang gi nus pa las so / / gal te de lta na nyan thos bzhin du mya ngan las 'das pa'i mthar lhung ba'o zhe na / / ma yin zhes gsungs pa / / mya ngan 'das zhes pa'o; / / shes rab kyis srid mi gnas shing / / snying rjes zhi la mi gnas pa / / zhes pas srid pa dang mya ngan las 'das pa la mi gnas pa sgrib pa thams cad nges par song ba zag pa med pa'i bde ba chen po gcig pu'i rang bzhin la rgyun mi 'chad par 'khor ba ji srid par gnas pa ste; gang las 'di dpa'o zhes pa /
+na tu śrāvakavat saṃsārād uttrastamānasa ekāntanirvāṇaprāptasaṃjñī / (p 104) (50v5) tathācoktam āryanāgārjunapādaiḥ / (Bodhicittavivaraṇa, 88–93) citrād api paraṃ citram adbhutād api cādbhutaṃ / jñātvā śūnyān imān dharmān yat karmaphalasevanā
+# chu skyes bzhin du mi mthun pa'i phyogs chu'i skyon rnams kyis thub par dka' ba nyid kyi phyir dang de las nges par rgyal ba'i phyir dpa' bo yin gyi nyan thos bzhin du 'khor ba las mchog tu skrag pa'i yid can mtha' gcig tu mya ngan las 'das pa thob ba'i 'du shes can ni ma yin no / / de skad du yang 'phags pa klu sgrub zhabs kyis gsungs pa / / chos 'di rnams ni stong shes nas / / las dang 'bras bu bsten pa gang / / ngo mtshar las kyang ngo mtshar zhing /
+(51r1) (v. 88) satvatrāṇāśayā hy ete utpannā bhavakarddame
+# rmad byung las kyang rmad byung ngo / / sems can bskyab pa'i bsam pa yis / / srid pa'i 'dam du skyes kyang 'di /
+aliptās tadbhavair doṣaiḥ padmapatram ivambhasā (em. ivā°)
+# de byung skyon gyis ma gos te / / padma'i 'dab ma chu yis bzhin /
+(v. 89) dagdhakleśendhanā hy ete śūnyatājñānavahninā
+# 'di rnams stong nyid ye shes mes / / nyon mongs su bud shing rnams bsregs shing / / 'on kyang snying rjes brlan pa gang /
+(51r3) tathāpi karuṇārdrā vai bhadrādyā ye jinaurasāḥ
+# bzang la sogs pa rgyal sras rnams / / 'pho dang skye dang mngon byang chub /
+(v. 90) cyutijanmābhisambodhiyātrāduṣkaradarśanaṃ
+# ltad mo dka' sbyang ston pa dang / / bdud kyi sde nyid 'dzoms pa dang /
+mārasainyaprabhaṅga(51r5)ñ ca dharmacakrapravartanaṃ
+# chos kyi 'khor lo rab bskor dang / / lha ru gshegs kyang mya ngan 'das /
+(v. 91) devā(va)tāranirvāṇaṃ gṛhān niṣkramaṇan tathā / darśayanti jagannāthāḥ karuṇāvaśavartinaḥ
+# de bzhin khyim ma nas nges 'byung ba / / thugs rje'i dbang gis rab 'jug pa'i; / / 'gro ba'i mgon rnams ston par mdzad /
+(51v1) (v. 92) brahmendropendrarudādipratibimbapravartanaiḥ
+# tshangs dbang nye dbang drag sogs kyi / / gzugs brnyan du ni rab zhugs rnams /
+jagadvinayayogena nṛtyanti karuṇayāśayā (v. 93) iti / vīratvaṃ kutaḥ
+# 'gro ba 'dul ba'i sbyor ba yis / / snying rje'i bsam ldan zlos gar mdzad / / ces so / / ci zhig las dpa' bo yin zhe na / / gang gi phyir /
+(51v3) yasmān nirgataś cāsau lepād vāsanāyāḥ / āvaraṇadvayamalavarjitaś ca
+# gos pa bag chags la nges par byung ba yang 'di yin la / / sgrib pa gnyis kyi dri ma spangs pa yang ste /
+napunsakatvam ārṣāṃ (read: ārṣaṃ) / tad evaṃ pāramārthikaṃ tatvam uktaṃ
+# ma ning nyid ni lung ngo / / de ltar don dam pa'i de kho na nyid gsungs so /
+(51v5) tat punar asukaram upāyatatvam antareṇa sākṣātkartum iti
+# de yang thabs kyi de kho na nyid med na mngon du bya bar sla ba ma yin no zhes pas /
+yathā tadupāyopetaṃ vajrayānāśrayeṇa sākṣātkartavyan darśayitum āha
+# ji lta ba bzhin du de'i thabs dang ldan pa'i rdo rje theg pa la brten pas mngon du bya ste / / de ston pa'i ched du gsungs pa /
+mātara(52r1)m ityādi / tatra mātābhiṣekadāyikā
+# ma dang zhes pa la sogs pa'o / / de la ma ni dbang sbyin pa mo'o /
+bhaginī vajrayānasamārūḍhā
+# sring mo ni rdo rje theg pa la yang dag bar zhugs pa ste /
+mātrādiśabdena mātrā sthānīyā iti kaścit*
+# ma la sogs pa'i sgras ma la sogs pa dang 'dra ba rnams so zhes kha cig go /
+adhimātrayogi(52r3)no yathārutam iti guravaḥ nītārthan tu svayam ākhyāsyati
+# rab kyi rnal 'byor pa la sgra ji lta ba bzhin no zhes bla ma rnams so / / nges pa'i don ni rang nyid kyis gsung bar 'gyur ro /
+prajñā śūnyatārūpā yoginī upāyaḥ śrīvajradharaḥ
+# shes rab ni stong pa nyid kyi ngo bo'i rnal 'byor ma rnams so / / thabs ni dpal rdo rje 'dzin pa'o /
+(52r5) tayor vidhānena mudrāyām ātmani cādhimokṣāt*
+# de dag gi cho ga ste phyag rgya dang; bdag nyid la lhag par mos pa las so /
+pūjayed ity ākāṃkṣantīn toṣayet*
+# mchod par bya zhes pa ni 'dod can ma dgyes par bya ba'o /
+yad uktaṃ haṭhena yoginī yodyogī(52v1)sthūlātyayo bhaved iti / yataś coktaṃ
+# gang gsungs pa / / nan gyis rnal 'byor mar sbyor las / / rnal 'byor sbom po'i ltung bar 'gyur / / zhes so /
+tāvat sevyate prajñā yāvac chakravartī bhaved iti
+# gang gi phyir yang gsungs pa / / ji srid khu ba ldan gyur pa / / de srid shes rab sten par bya / / zhes so /
+tatvam iha prajñopāyamaya(ṃ) (52v3) tadvat salas tatpriyaḥ san na tu rāgādibhiḥ
+# de kho na nyid ni 'dir thabs dang shes rab kyi rang bzhin te / / de la dga' ba ni de mgu bar gyur pa yin gyi chags pa can nyid la sogs pa rnams kyis ni ma yin no /
+prayatno guptau yatnaḥ
+# rab tu 'bad pa ni gsang ba la 'bad pa'o /
+bheda ity udbhedaḥ (52v5) svayam eva yuktipāṭhabalād abhyūhaḥ / mantrabhedaś ca bhedaḥ
+# bye ba zhes pa ni mchog tu bye ba ste rang nyid kho nas rigs pa bshad pa'i stobs las brtag par bya'o / / sngags bye ba yang bye ba ste /
+madauddhatyakopādibhiḥ svayaṃ tayā sahāyena vā parasmai kathanaṃ (53r1) mantrabhedaḥ
+# rgyags pa dang rgod pa dang khro ba la sogs pa rnams kyis rang nyid dam de dang lhan cig pas gzhan la smra ba sngags bye ba'o /
+aguptau narakapātādir adṛṣṭadoṣaḥ prasiddha eva
+# ma gsang na dmyal bar ltung ba la sogs pa ma mthong ba'i skyon ni rab tu grags pa kho na ste /
+dṛṣṭadoṣam apy āha
+# mthong ba'i skyon yang gsungs pa /
+agupta ityādinā
+# ma gsang na ste ma sbas na'o /
+agupte '(53r3)gopane / sarpavyāghrādayaḥ
+# sbrul ni sprul dang stag la sogs pa'o /
+bhūcarā narapiśācādayaḥ śāsakāḥ
+# sa spyod ni mi dang sha za la sogs pa gnod par byed pa rnams so /
+tatvajijñāsoḥ kim etābhir ity āha / (53r5) mudretyādi
+# de kho na nyid shes par 'dod pa po la 'di rnams kyis ci bya zhe na gsungs pa; phyag rgya zhes pa la sogs pa'o /
+atra brahmaṇī kṣatriyā vaiśyā śūdryo vairocanakulinyaḥ / amṛtavajreti kṣatriyaivāmṛtam iva (53v1) kṣatadūḥkhebhyaḥ strāṇāt*
+# 'dir bram ze mo dang rgyal rigs mo dang rje'u rigs mo dang dmangs rigs mo rnams ni rnam par snang mdzad kyi rigs can ma rnams so / / bdud rtsi rdo rje mo ni rgyal rigs mo kho na ste / / bdud rtsi bzhin du nyams pa'i sdug bsngal rnams las skyob pa'i phyir ro /
+karmakuśalajeti vāṇijyādikarmapradhānaṃ kulaṃ vaiśyakulaṃ tajja (read: tajjā?) gopālikā śudrī
+# las kyi rigs las skyes zhes pa ni tshong pa la sogs pa las gtso bo'i rigs kyi rje rigs te de las skyes pa'o / / ba lang rdzi mo yang dmangs rigs mo'o /
+(53v3) mahāvairocano 'tra vairocana eva / tathatāyām ityādi tathatā tathātvaṃ dharmaviśeṣasyānirddeśāt* sarvadharmāṇām asau / (53v5) ataḥ sarvadharmāṇāṃ yathābhūtaṃ tatvaṃ tathatocyate
+# rnam par snang mdzad chen po ni 'dir rnam pa snang mdzad kho na'o / / de bzhin nyid du zhes pa la sogs pa ste; de bzhin nyid ni de bzhin pa nyid de / / chos kyi khyad par ma bstan pa'i phyir 'di ni chos thams cad kyi'o / / de'i phyir chos thams cad kyi yang dag pa ji lta ba'i de kho na nyid ni de bzhin nyid du brjod do /
+tat punaḥ śūnyatāmātraṃ pāramitānaye pratipādyate
+# de yang stong pa nyid tsam du pha rol tu phyin pa'i theg par rtogs par byas shing /
+iha tūpadekṣamāṇo(54r1)pāyaviśeṣopetā śūnyatā tathateti
+# 'dir ni nye bar ston par 'gyur bzhin ba'i thabs kyi khyad par dang ldan pa'i stong pa nyid ni de bzhin nyid du zhes pa'o /
+tasyāṃ gatas tathāgataḥ takāralopāt
+# der gshegs pa ni de bzhin gshegs pa ste /
+śrīmān ubhayasaṃbhāravān* sann iti pūrveṇa sambandhaḥ
+# ta yig phyis pa las so / / dpal ldan te tshogs gnyis dang ldan par gyur pa zhes snga ma dang sbrel lo /
+(54r3) āgataś ca tathaivāgataḥ ceti / yathā gatas tathaivāgataḥ / prajñopāyamayasyaiva jaga(da)rthaṃ pañcakulādibhāvena spharaṇāt*
+# de bzhin kho nar byon pa'o zhes pa ji ltar gshegs pa de bzhin kho nar byon pa ste / / thabs dang shes rab kyi rang bzhin kho na 'gro ba'i don du rigs lnga la sogs pa'i dngos por spro ba'i phyir ro /
+anayā tathatayā (54r5) prakṛṣṭajñānābhinnatayā prajñayā yuktyā tādātmyayogena / iha hi viśvaṃ cittaṃ pradhānaṃ cittasantatilakṣaṇāś ca satvanaiḥsvābhāvyā(54v1)tmatathāgatagarbhās tathāgatānāñ ca dharmasarvasvam ādarśādipañcajñānāni tāni ca dharmatāśarīreṇa (54v3) prakṛtipariśuddhāny eva kevalam āgantukāvaraṇaviśuddhau svasvabhāveva tiṣṭhamānāni pañcajñānākhyāṃ buddhabodhisatvākhyāṃ ca labhante (54v5) pūrvan tu bījākhyām eva
+# de bzhin nyid 'dis dang phul du byung ba'i ye shes dang dbyer med pa'i shes rab kyis dang sbyor bas te de'i bdag nyid kyi rnal 'byor gyis so / / 'dir thams cad ni sems gtso bo ste / / sems kyi rgyun gyi mtshan nyid can gyi sems can rnams kyang rang bzhin med pa'i bdag nyid kyi de bzhin gshegs pa'i snying po can rnams so / / de bzhin gshegs pa rnams kyi yang chos kyi bdog pa thams cad pa ni me long lta bu la sogs pa'i ye shes lnga rnams te / / de rnams kyang chos nyid kyis lus kyi rang bzhin yongs su dag pa kho na yin zhing / / glo bur gyi sgrib pa rnam par dag pa na rang gi rang bzhin la gnas bzhin pa rnams ni ye shes lngar bshad pa dang sangs rgyas dang byang chub sems dpar bshad pa 'thob pa 'ba' zhig ste / / snga ma ni sa bon du bshad pa kho na'o /
+ataś ca bodhisatvā {bījatvā}d gotrāṇi kulāni cocyante / kulāni cocyante
+# de'i phyir yang byang chub sems dpa'i sa bon nyid yin pa'i phyir skye rigs rnams dang sde rigs rnams su brjod do /
+nanv evaṃ sarve tathāgatā ādarśādi(55r1)pañcajñāninaḥ pratyekaṃ teṣām ādarśādīni pañcakulāni tat kathaṃ kulabhedaḥ
+# 'o na de lta na de bzhin gshegs pa thams cad me long lta bu la sogs pa'i ye shes lnga can rnams te / / so sor de rnams me long lta bu la sogs pa'i rigs lnga rnams yin na /
+gotrabhedāt* / (55r3) ādarśādīnām ekaikasya hi cchāyāgotram anādisiddhaṃ bodhisatvānāṃ / anekasya tu cchāyāgotraṃ ṣaṣṭhaṃ / anekacchāyasyāpi ṣaṣṭhasyaike(read: kai)kacchāyābalīyāstvena (55r5) tattatkulānukārāt tatra tatra saṃgraha iti pañcatvam ity āha
+# de ci ltar sde rigs tha dad pa yin zhe na / / skye rigs tha dad pa'i phyir te / / byang chub sems dpa' rnams kyi me long lta bu la sogs pa rnams kyi re re'i mthun pa'i skye rigs thog ma med pa nas grub cing / / du ma'i mthun pa'i skye rigs ni drug pa ste du ma'i mthun pa drug pa'i yang re re'i mthun pa cher stobs dang ldan pa nyid kyis na de dang de'i sde rigs kyi rjes su byed pa'i phyir na de dang der bsdu'o zhes pas / / lnga nyid do zhes gsungs pa /
+kulaṃ pañcavidhaṃ proktam iti
+# sde rigs rnam pa lnga ru bshad / / ces so /
+atha vaivam avatāryate
+# yang na 'di ltar 'jug par bya ste /
+nanu pañcakulasaṃgṛhītā(55v1)nām ā(read: a-)nyāsām avyāpanāt prādeśikaṃ spharaṇaṃ syāt*
+# 'o na rigs lngas ma bsdus pa gzhan rnams lam khyab pa'i phyir nyi tshe ba'i spro bar byed par 'gyur ro zhe na /
+na / tāsāṃ satvakulena saṃgrahāt*
+# ma yin te / / de rnams sems can gyi rigs nyid kyis bsdus pa'i phyir ro /
+nanv evaṃ satvakulasyottamatā syāt* (55v3) vajrasatvasya sarvādhipatitvāt*
+# 'o na de lta na sems can gyi sde rigs mchog nyid du 'gyur te / / rdo rje sems dpa' thams cad kyi bdag po nyid kyi phyir ro zhe na /
+naivaṃ / anyeṣām api tatprasūtatvāt
+# de lta ma yin te / / gzhan rnams kyang de las byung ba nyid kyi phyir ro /
+prakarṣaviśeṣāt tu kulāntaratvaṃ teṣām upadiśyate
+# phul du byung ba'i khyad par las ni de rnams rigs gzhan nyid du nye bar bstan pa ste /
+(55v5) yatra tta (read: tu?) tādṛśaḥ prakarṣo nāsti tatra kuśalāntaravyapadeśanibandhanābhāvāt satvakulenaiva vyapadeśaḥ / satvakulasya tu tattatkulānu(56r1)kāriṇas tatra tatra saṃgrahāt pañcatvam ity āha
+# gang la de 'dra ba'i phul du byung ba med pa de la rigs gzhan du rnam par bstan pa'i rgyu med pa'i phyir sems can gyi rigs kho nar tha snyad gdags te / / sems can gyi rigs de dang de'i rigs kyi rjes su byed pa ni de dang der bsdus pa'i phyir lnga nyid do zhes gsungs pa /
+kulaṃ pañcavidham iti / tac ca pra(pañcāt) pañca skandhāś catvāro dhātavaḥ pañcendriyāṇi pañca viṣayāś ca pratyekaṃ {pañca}tathāgatā(56r3)tmakatvena śāntikapauṣṭikavaśyakuruviśvarūpabhedena vā / ādarśādipañcajñānaiḥ śaheti (read: saheti) śatavidhaṃ
+# rigs ni rnam pa lnga zhes pa ste / / de yang spros pa las phung po lnga dang khams bzhi rnams dang dbang po lnga rnams dang yul lnga rnams so sor de bzhin gshegs pa lnga'i bdag nyid kyis sam zhi ba dang rgyas pa dang dbang du bya ba dang drag po dang sna tshogs kyi ngo bo'i dbye bas dang me long lta bu la sogs pa'i ye shes lnga rnams dang lhan cig rnam pa brgya'o /
+tad api (56r5) bhidyamānam anantam aparyavasānam aṃsaṃkhyam (read: asaṃkhyaṃ) ity arthaḥ
+# de yang dbye ba byas na mtha' yas te mur thug pa med cing grangs med pa'o zhes pa'i don to /
+trividham iti / traividhyam api tattatkulānukāriṇas tatra tatra saṃgrahāt*
+# rnam gsum zhes pa rnam pa gsum nyid ni de dang de'i rjes su byed pa rnams de dang der bsdus pa'i phyir ro /
+tathā ca samatā(56v1)jñānasyādarśajñāne saṃgrahaḥ kṛtyānuṣṭhānajñānasya pratyavekṣaṇājñāna iti sopapattikaṃ vakṣyāṃaḥ
+# de ltar ni mnyam pa nyid kyi ye shes ni me longs ye shes su bsdu zhing / / bya ba grub pa'i ye shes ni so sor rtog pa'i ye shes su'o zhes 'thad pa dang bcas pa 'chad par 'gyur ro /
+atha vā mānerṣyoḥ prajñāsvabhāvayo (56v3) rāgakule 'ntarbhāvāt*
+# yang na nga rgyal dang phrag dog shes rab kyi rang bzhin can dag 'dod chags kyi nad [?] du 'du ba'i phyir ro /
+mānasya vā kāyakule mohāśrayatvāt* / dveṣakule vā piśunerṣyayor dveṣaprabhavatvāt
+# yang na nga rgyal ni sku'i rigs su ste / / gti mug gi rten can nyid kyi phyir ro / / zhe sdang gi rigs su phra ma dang phrag dog dag yang na ste zhe sdang las byung ba nyid kyi phyir ro /
+(56v5) sac ca sarvam apy ekaṃ vajrasatvakulaṃ jñātavyaṃ
+# de thams cad kyang rdo rje sems dpa'i rigs gcig pur shes par bya ste /
+yad vakṣyati
+# gang gsungs par 'gyur ba /
+kulaṃ pañcavidhaṃ proktam ekam eva hi śūnyavajriṇam iti
+# rigs ni rnam pa lngar gsungs shing / / stong nyid rdo rje'i gcig kho na'o /
+samāje ca trivajrābhedyasvarūpaṃ vya(57r1)vasthāpitaṃ / utpādayanta bhavantaś cittaṃ kāyākāreṇetyādinā
+# zhes so / / 'dus par yang rdo rje gsum mi phyed pa'i ngo bor rnam par gzhag ste khyod rnams kyis sems lus kyi rnam par bskyed cig ces pa la sogs pas so /
+kāni punas tāny ādibhūtāni kulāni yat* kulāny aparāṇi bhaviṣyanti / kathañ ca tāni (57r3) kulam ity ucyante ity āha / kulānām ityādi / pañca bhūtāni skandhā vā kulāni / tadviśuddhirūpatvād eva buddhānāṃ (57r5) tadrūpatvena tv ādau vajradharasya spharaṇād āditvaṃ
+# gang las rigs gzhan rnams su 'gyur ba dang dang po'i 'byung ba'i rigs de rnams ci zhig yin cing ji ltar na de rnams rigs zhes brjod par bya zhe na gsungs pa rigs rnams zhes pa la sogs pa'o / / 'byung ba lnga rnams sam phung po rnams ni rigs rnams te de rnam par dag pa'i ngo bo sangs rgyas rnams yin pa nyid kyi phyir ro /
+teṣāñ ca tadanantaram aparimitena rūpeṇa
+# de'i ngo bo nyid du dang por rdo rje 'dzin pas spro ba'i phyir dang po nyid do /
+y atveṣāṃ (read: yat tv eṣāṃ?) kulam ity abhidhīyate tattadrūpeṇa tatprasūtānāṃ kulanād ga(57v1)ṇāta (read: gaṇata?) ity arthaḥ / tatra pañca bhūtāni pṛthivyaptejovāyuvijñānāni / pañca skandh a (read: -ā) rūpavedanāsaṃjñā(57v3)saṃskāravijñānāni / prasūtikulāni ceti
+# de rnams kyang de ma thag tu dpag tu med pa'i ngo bos gang 'di rnams kyi rigs so zhes brjod par bya ba de dang de'i ngo bos de las byung ba rnams rigs su byed pa'i phyir bgrang bar byed pa'i phyir ro zhes pa'i don to / / de la 'byung ba lnga rnams ni sa dang chu dang me dang rlung dang rnam par shes pa rnams te / / phung po lnga rnams ni gzugs dang tshor ba dang 'du shes dang 'du byed dang rnam par shes pa rnams so /
+tebhyaḥ prasūtāny aparāṇi kulānīty arthaḥ
+# rab skyes rigs rnams zhes pa de rnams las rab tu skyes pa'i rigs gzhan rnams zhes pa'i don to /
+nanv evaṃ śūnyatātatvaṃ mudrāyogāt* jñāya(57v5)mānārthopāyopetam upasūcitaṃ na tv iha kiñcid bhāvyam upadiṣṭaṃ
+# 'o na de ltar na stong pa nyid kyi de kho na nyid dang phyag rgya'i rnal 'byor las shes par bya ba'i don gyi thabs dang ldan pa ste / / de gnyis gsal bar byas kyi / / 'dir bsgom par bya ba cung zad nye bar bstan pa ni ma yin te /
+utpannarūpāṇām eva pañcakulānāṃ yoginīnāṃ nirddeśāt* (58r1) yogināṃ caturdvāreṇaiva tathā sūcanāt*
+# rdzogs pa'i ngo bo'i rigs lnga'i rnal 'byor ma rnams nges par bstan pa'i phyir dang rnal 'byor pa rnams kyang de'i sgo kho nas de ltar gsal bar byed pa'i phyir ro zhe na / / bden te /
+satyaṃ tatvato bhāvyabhāvakabhāvanām anutpatter ādiśāntatvāt sarva(58r3)dharmāṇāṃ tad darśayati
+# de kho na nyid du na bsgom par bya ba dang sgom pa po dang bsgoms pa rnams skye ba med pas gdod ma nas zhi ba nyid kyi phyir chos thams cad der ston pa ni /
+nāsti bhāvaka ityādi
+# sgom pa po med ces pa la sogs pa'o /
+tat kiṃ mantradevatayor uccheda evotpannakrame ity āha / tiṣṭhatāv iti niṣprapañcaḥ śūnyataikarasatvāt* (58r5) svabhāvaḥ sahajamahāsukharūpaḥ tadrūpeṇa mantradevau tiṣṭhataḥ
+# de ci sngags dang lha dag chad pa kho na rdzogs pa'i rim pa'am zhe na gsungs pa / / gnas zhes pa'o / / spros pa med pa ni stong pa nyid dang ro gcig pa nyid kyi phyir ro / / rang bzhin ni lhan cig skyes pa'i bde ba chen po'i ngo bo ste de'i ngo bos sngags dang lha dag gnas so /
+tad eva nirdiśati / vairocanetyādi / āroliko 'mitābhaḥ / (58v1) sātviko mūrtimān* vajrasatvaḥ śivo 'mitābhaḥ sarvo 'moghaḥ vibuddho ratnasaṃbhavaḥ vairocanādirūpeṇa (58v3) niṣprapañcasvabhāvaṃ tatvam evocyata ity arthaḥ
+# de nyid rgyas par ston pa rnam snang zhes pa la sogs pa'o / / a'a ro li ka ni 'od dpag tu med pa'o / / snying stobs can ni lus dang ldan pa ste rdo rje sems dpa'o / / zhi ba ni 'od dpag tu med pa'o / / thams cad ni don yod do / / rnam sangs rgyas ni rin chen 'byung ldan no / / rnam par snang mdzad la sogs pa'i ngo bos spros pa med pa'i rang bzhin ni de kho na nyid du brjod do zhes pa'i don to /
+brahmādipadānāṃ svasamaye 'prasiddhatvād artham āha
+# tshangs pa la sogs pa'i tshig rnams rang gi gzhung lugs su ma grags pa nyid kyi phyir don gsungs pa /
+brahmetyādi / (58v5) nirvṛti(r) nirvāṇaṃ
+# tshangs pa zhes pa la sogs pa'o / / mya ngan las 'das pa ni mya ngan las 'das pa'o /
+tato buddha eva vastuto brahmā na punar anyas tasya svarūpato 'nivṛtatvāt*
+# de'i phyir sangs rgyas kho na dngos por na tshangs pa yin gyi gzhan ni ma yin te / / de ni rang gi ngo bos mya ngan las ma 'das pa nyid kyi phyir ro /
+evam uttareṣv api
+# de ltar phyi ma rnams la yang ngo /
+(59r1) viśanād i(ti) vyāpanāt*
+# 'jug phyir zhes pa khyab pa'i phyir ro /
+sukalyāṇād ity atyantakalyāṇatvāt*
+# dge phyir zhes pa shin tu dge ba nyid kyi phyir ro /
+sarveṣām ātmā nijaṃ rūpaṃ
+# thams cad kyi bdag nyid ni gnyug ma'i ngo bo ste /
+tatra santatyasthito yatas tataḥ sarva (59r3) ity arthaḥ
+# gang gi phyir de la rgyun gyis gnas pa nyid kyi phyir thams cad do zhes pa'i don to /
+tatvam eva tad adyāpi na jñāyate yadātmakam etat sarvam ity āha / satsukhatveneti
+# 'di thams cad gang gi bdag nyid yin pa de kho na nyid de ni da dung yang mi shes so zhe na gsungs pa / / bde pa dam pas zhes pa ste /
+satsukhaṃ niṣprapañcaṃ mahāsukhaṃ
+# bde ba dam pa ni spros pa med pa'i bde ba chen po'o /
+(59r5) vibuddho bodhanād rater iti tasyaiva mahāsukhasya bodhād vibuddho buddha eva
+# dga' ba rtogs phyir rnams sangs rgyas / / zhes pa bde ba chen po de kho na rtogs pa'i phyir rnam sangs rgyas te sangs rgyas kho na'o /
+nanu devatāviśeṣāḥ pratipāditā devatātvam eva tu sāmānyaṃ na pratipāditam ity āha / deha iti
+# 'o na lha'i khyad par rnams bsgrubs zin mod; ci lha nyid ni ma bsgrubs so zhe na gsungs pa / / lus la zhes pa'o /
+(59v1) dehe saṃbhavatīti devatāvarṇāgamalopābhyāṃ evaṃbhūtaḥ sa eva bhagavān ucyata ity āha
+# lus la 'byung zhes pa lha ste yi ge bsnan pa dang phyis pa dag gis so / / de ltar gyur pa de kho na bcom ldan 'das su brjod par bya'o zhes gsungs pa /
+bhaga ityādi / evaṃ pariśuddhe (59v3) manasi mahāsukharasānuṣiktā aiśvaryādayo guṇā nijabījadā jāyanta iti te 'sya santi
+# skal pa zhes pa la sogs pa'o / / de ltar yongs su dag pa'i yid la bde ba chen po'i ros rjes su dran pa'i dbang phyug la sogs pa'i yon tan rnams gnyug ma'i sa bon las skye ba'o zhes pas de rnams 'di la yod pa'o /
+mudrāṇān nītārtham āha
+# phyag rgya rnams kyi nges pa'i don gsungs pa /
+(59v5) jananītyādi
+# skyed byed ma zhes pa la sogs pa'o /
+jagaj janam iti / jagadvartinam āryalokaṃ
+# 'gro ba'i skye bo zhes pa 'gro bar 'jug pa 'phags pa'i 'jig rten no /
+vibhāgam iti / heyopādeyavibhāgaṃ / rajakītyādinā uddiśya (60r1) (p. 123) rañjanād ityādinā nirddiśati
+# rnam dbye zhes pa spang bar bya ba dang blang bar bya ba'i rnam par dbye ba'o / / tshos ma zhes pa la sogs pas mdor bstan nas / / chags byed phyir zhes pa la sogs pas rgyas par bshad do /
+rañjanād ity anurāgaṇāt / prajñayā hi āśayānuśayaṃ vijñāya (60r3) yathāyogam anuṣṭhānāt sarvasatvā anurāgitā bhavantīti prajñaiva tatho( interlinear note in dbu can: tho)cyate guṇasya balavaiśāradyādirūpasyākāśadhinor (read: -sya kāmadhenor?) duha(60r5)nād utpādanāt prajñaiva tathocyate
+# chags byed phyir zhes pa rjes su chags par byed pa'i phyir ro / / shes rab kyis ni bsam pa dang bag la nyal rnam par mkhyen nas ji ltar rigs par rjes su gnas par byed pa'i phyir sems can thams cad rjes su chags pa can nyid du 'gyur ro zhes pas shes rab kho na de skad brjod do / / yon tan te stobs dang mi 'jigs pa la sogs pa'i ngo bo nam mkha'i 'dod 'jo las 'jo phyir te skyed par byed pa'i phyir shes rab kho na de skad brjod par bya'o /
+cañcalatvād iti bhavanirvāṇāpratiṣṭhitatvāt* / asparśeti śūnyataikarasatvāt*
+# g yo ba'i phyir zhes pa srid pa dang mya ngan las 'das pa la mi gnas pa nyid kyi phyir ro / / reg min zhes pa stong pa nyid dang ro gcig pa nyid kyi phyir ro /
+(60v1) vākyānām api mudrāṇām eteṣām eva prajñāguṇānām anukaru(read: -ra-)ṇāt prajñātvam anugantavyaṃ / ata eva bāhyamudrāṇām evaṃ bhūt* (60v3) prajñāsvarūpāṇām evādhimokoṣeṇāpi bhagavattathāgatakulānāṃ śūnyataikarasamahāsukhatatvajijñāsoḥ seveti sevitavyā (60v5) ity uktaṃ
+# phyi rol gyi phyag rgya rnams kyang shes rab kyi yon tan de rnams nyid kyi rjes su byed pa'i phyir shes rab nyid du rjes su rtogs par bya'o / / de nyid kyi phyir 'di ltar gyur pa'i shes rab kyi rang bzhin phyi rol gyi phyag rgya rnams kho na lhag par mos pas kyang bcom ldan 'das de bzhin gshegs pa'i rigs rnams kyi stong pa nyid dang ro gcig pa'i bde ba chen po'i de kho na nyid shes rab 'dod pa pos bsten pa'o zhes pas brten par bya'o zhes bshad do /
+utpannarūpāṃ devatāṃ pratipādya mantraṃ pratipādayann āha
+# rdzogs pa'i ngo bo'i lha bsgrubs nas sngags sgrub pa gsungs pa /
+japam ityādi
+# bzlas pa zhes pa la sogs pa ste /
+
