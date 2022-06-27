@@ -1,3 +1,6 @@
+# New repository
+This repository is outdated. A more comperehensive, more precisely aligned dataset is found here: https://github.com/sebastian-nehrdich/sanstib
+
 # sanskrit-tibetan-etext
 This is a collection of sentence-level aligned Sanskrit-Tibetan etexts. The Tibetan etexts have been taken from ACIP (https://asianclassics.org/), the Sanskrit etexts from GRETIL (http://gretil.sub.uni-goettingen.de).
 The HTML-versions of the aligned files are found in the html-folder. The org-folder contains .org-files (which are just plain text files). the matrices-folder contains pictures of the alignment-matrices of the different files. These can be useful to see to what extent the alignment has been successful. 
